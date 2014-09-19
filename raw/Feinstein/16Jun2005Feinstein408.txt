@@ -1,0 +1,36 @@
+SEN. FEINSTEIN ADDRESSES COMMERCE COMMITTEE HEARING ON IDENTITY THEFT
+  Testimony of Sen. Feinstein at Commerce Committee Hearing on Identity Theft
+   The Senate Commerce Committee today convened a hearing on identity theft, including the recent wave of data breaches and legislation sponsored by Sen. Dianne Feinstein (D-Calif.) that would ensure that consumers are notified when their personal information is compromised in such a breach. 
+   Over the past two years, there have been at least 34 major data breaches exposing almost 19 million individuals to identity theft.
+   Senator Feinstein's legislation, which is modeled after California 's landmark notification law, requires a business or government entity to notify an individual in writing or email when it is believed that personal information - such as a Social Security number, driver's license or state identification number, or financial account information - has been compromised. 
+   The following is Senator Feinstein's prepared testimony: 
+   "Thank you Chairman Smith and the Ranking Member for allowing me the opportunity to come before your Committee to speak generally about the subject of identity theft and specifically about my bill, 
+  S. 751, the Notification of Risk to Personal Data Act. 
+   Identity theft is a growing problem which shows no signs of abating. And why should it as long as people's sensitive personal information is so easily accessible in the market place. 
+   It's important for people to know that when they open a credit card account, get a home loan or buy a car, or purchase items online - all that information is collected, collated in massive databases and then in some cases bought and sold. This includes data such as our Social Security numbers, driver's license numbers, personal financial data, addresses and personal health information. 
+   Breaches of sensitive personal data are on the rise. They are significant. And their harm to the victims and business are enormous. 
+   Over the past two years, there have been 34 major data breaches, and approximately 18,393,180 million individuals in this country have been exposed or affected by identity theft. Last year, the total cost to individuals and business from identity theft was $52.6 billion dollars. 
+   In the past year alone, we've seen the following major breaches which involved sensitive personal data, including names and Social Security numbers, the building blocks for identity thieves to steal someone's identity. 
+   * CitiFinancial earlier this month announced that a box of computer tapes with unencrypted account information for 3.9 million customers had been lost in shipment. 
+   * Bank of America announced that they lost tapes containing data on 1.2 million federal employees. 
+   * Choice Point and the 145,000 potential victims of identity thieves. 
+   * Both the California and Colorado Departments of Health had laptops stolen which jeopardized the personal information of nearly 25,000 residents. 
+   * And the list goes on and on. Breaches compromising personal data at DSW, LexisNexis, the University of California system, Boston College, HSBC, Ameritrade and even the federal government - the Department of Justice. 
+   I think we could go a long way toward reducing that number, and the number of individuals affected, if we had a strong national notification law in effect. 
+   In 2003, California was the first state to require notification in the event of a data breach. Aside from the fact that this law works, it has also shown us the risk of breaches. I would even argue that but for the California notification law, we may not be privy to all of the breaches we are aware of today. 
+   So California started a trend and now we are seeing other States seeing the necessity of notification laws. At present, the States are out ahead of the Congress. But data breaches and identity theft is a national problem that requires a federal solution. One strong notification standard is what we need, not a patchwork of State laws like we are beginning to see in California, Arkansas, Georgia, Indiana, Montana, North Dakota and Washington State. 
+   It shouldn't just be that the residents of those States receive notice upon discovery of a breach. No, I believe everyone should be notified at the same time and in the same manner. Toward this goal, I have been working on notification legislation for the past few years. 
+   Earlier this year, I introduced legislation which in a nutshell would require that the federal government or a business notify individuals when there has been a breach that has compromised the following sensitive personal data: 
+   * Social Security numbers; 
+   * Driver's license or state identification numbers; 
+   * Financial account information; 
+   The bill would: 
+   * Require that notice be sent out without unreasonable delay by mail or email. 
+   * Allow for exceptions to notice for law enforcement and national security purposes. 
+   * Impose civil remedies for failure to notify - such as $1,000 per individual whose personal information was comprised or not more than $50,000 per day while the failure to notify continues. 
+   * Allow individuals to place an extended fraud alert on their credit reports to protect themselves; and 
+   * Allow State attorneys general to protect the interests of residents of their States when the federal government or businesses fail to notify individuals of a breach. 
+   So in closing I'd just like to say thank you again to the Chairman and Ranking Member for allowing me the opportunity to testify here today. I strongly believe individuals have a right to be notified when their most sensitive information is compromised - because it is truly their information. 
+   The legislation I am proposing will, I believe, give all Americans more control and confidence about the safety of their sensitive personal information. It will help combat the growing scourge of identity theft. And if an identity theft does occur, it will give individuals the ability to protect themselves from further fraud.I look forward to working with my colleagues to pass this vitally needed legislation."
+ 
+ 

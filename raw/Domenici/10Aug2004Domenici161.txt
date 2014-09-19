@@ -1,0 +1,10 @@
+SEN. DOMENICI ISSUES STATEMENT ON LANL SECURITY INVESTIGATION
+  Sen. Pete Domenici, chairman of the Energy and Water Development Appropriations Subcommittee, today issued the following statement regarding the investigation of security at Los Alamos National Laboratory.  
+   Domenici on Monday was briefed by LANL Director G. Peter Nanos and other senior lab managers on the state of security at the lab and to gain a better understanding as to why security failures have brought all scientific research to a standstill. 
+   "I said in my open letter to Los Alamos, 'I do not yet know if the most recent security incident is, unto itself, of great consequence.' 
+   "I met with Director Nanos yesterday and reviewed step-by-step what probably happened to the disks in question. He has been the one conducting the investigation, and I think he should address those specifics. 
+   "I will tell you that whether or not the disks were missing, Los Alamos' system of tracking its classified inventory is clearly a mess if we cannot tell if classified material is missing. The first thing an inventory system has to be able to do is tell what materials we have and what material is missing. 
+   "It may be that what we have here is a false positive-the system says something is missing when it is not. And just as if it were a medical test, it is better to find out the inventory was wrong than that the disks were actually missing. But this entire situation only reinforces that we need to improve the inventory system. 
+   "Finally, everyone needs to know that I am impressed by the way Director Nanos has handled this situation. When the lab's inventory system showed something was missing, it was incumbent upon him to act quickly and decisively to recover the material or if it turns out that the inventory system was inaccurate, to fix the inventory system."
+ 
+ 

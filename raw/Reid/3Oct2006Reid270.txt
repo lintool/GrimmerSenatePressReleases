@@ -1,0 +1,100 @@
+SENS. REID, ENSIGN SECURE MILLIONS FOR NEVADA DEFENSE PROJECTS
+  Sens. Harry Reid and John Ensign of Nevada announced today that next year's federal defense budget will include nearly $69.5 million for Nevada defense projects including operating expenses at Nevada military bases, research projects at state universities, and grants to private companies developing high-tech defense systems in Nevada. Reid and Ensign set aside the funding in the FY 2007 Department of Defense Appropriations Bill. 
+   "Defense funding is crucial to protect the people of Nevada," said Reid. "This money will be used to develop new programs and continue current projects that help keep our state and country safe." 
+   Reid is a senior member of the Senate Appropriations Committee.  
+   "I am proud to see companies in Nevada playing such an essential role in protecting our country," said Ensign. "These projects will help give our military every advantage possible on the battlefield. These funds will not only protect out military men and women in harms way but also help protect Americans and our way of life." 
+   Both Senators worked jointly to secure priority funding in the Defense Appropriations Bill for the following Nevada projects: 
+   SOUTHERN NEVADA PROJECTS 
+   ROCKY RESEARCH, LLC 
+   Thermal Management Systems for High Density Electronics: $5M 
+   Rocky Research will receive funding for a second year in a row to continue the work of the Navy's program in Power Projection Applied Research. The project is designed to develop passive cooling techniques to remove heat from next generation defense microelectronics applications more effectively than is being done with current technology. 
+   Heat Dissipation for Electronic Systems and Enclosures: $1.95M 
+   Rocky Research will receive funding for a project that aims to develop heat dissipation systems that rapidly and effectively remove heat from military electronics and microelectronics systems and enclosures on vehicles and in ground stations. 
+   Novel Lightweight Armor Material for Insensitive Munitions Protection of Tactical Missiles: $1.0M 
+   Rocky Research will also receive funding to support further advanced material development of a lightweight, relatively inexpensive and easily manufacturable, highly ballistics resistant material for vehicle use in order to protect mobile rocket launcher tubes and rockets. 
+   INTERMEC TECHNOLOGIES CORPORATION 
+   Serial Number Tracking System (SNTS): $1.0M 
+   Intermec Techonologies Corporation will receive funding to accelerate high priority SNTS applications through the supply, maintenance, and transportation processes. This technology enables rapid and accurate data collection for information systems and permits logistics data to be used Navy-wide for increased readiness and reduced maintenance costs. 
+   AMERICAN PACIFIC CORPORATION 
+   Electro-chemical Field Deployable System for Potable Water Generation: $1.0M 
+   American Pacific Corporation will receive funding to develop the processes and chemicals used to purify and/or disinfect drinking water for use by the U.S. military. They will develop shipboard purification/disinfection of drinking water in areas where potable water is not readily available or the risk of biological or chemical contamination is high. 
+   UNIVERSITY OF NEVADA LAS VEGAS: 
+   Structural Reliability of Smart Munitions and Lightweight Structures: $1.3M 
+   UNLV will receive funding to continue research and development of structural reliability testing programs. 
+   Unmanned Aerial Vehicle Research:$1.0M 
+   UNLV will receive funding to continue research and development of unmanned aerial vehicle platforms. The Nevada UAV project will concentrate on the development of medium and microscale (MAV) platforms for surveillance in support of DOD and DOE missions. 
+   Bio-surveillance in a Highly Mobile Population: $1.3M 
+   UNLV will also receive funding to create an effective way to trace the spread, and isolate the source of infectious diseases and bio-terror agents among units of the U.S. military. 
+   Bio-medical Complex/Combat Casualty Care Skills Lab: $1.0M 
+   Funds will be used to support the Biomedical Sciences Research Complex and the Biotechnology Center located at Shadow Lane Campus. 
+   NORTHERN NEVADA PROJECTS 
+   SIERRA NEVADA CORPORATION 
+   SA-90 Airship Persistant Surveillance Program: $7M 
+   The Sierra Nevada Corporation will receive funding to develop a ground station and for the fabrication, ground and flight test of two Reconnaissance SA-90 Airships for persistent surveillance. Combatant Commanders have documented an urgent need for economic persistent surveillance on the battlefield that can provide reach back in imagery and communications. 
+   Scathe View Upgrade: $2.5M 
+   The Sierra Nevada Corporation will receive funding to provide for a satellite communications upgrade. 
+   OPTICOMP 
+   MPOI for Micro-Satellite Datacom Amplifier: $2.32M 
+   OPTICOMP will receive funding to enable the implementation of reconfigurable switching network architectures to interconnect a much larger number of nodes, while addressing the needs of intra-satellite networks. 
+   MPOI for Battlespace Information Exchange: $2.0M 
+   OPTICOMP will also receive funding to on the Option II of the FY05 initiated program. The specific objectives include: 1.) Fabrication and Characterization of CWDM modules, 2.) Determine and Optimize High-Speed Modulation Characteristics, 3.) Perform Initial Wafer-Scale Reliability Testing, 4.) Software development of network control logic, 5.) Design and prototyping of network transceiver layer electronics, and 6.) Implement WDM-capable integrated level of network controller logic. 
+   ALTAIR 
+   Fuel Cell Fast Start Battery for Ship Propulsion: $3.3M 
+   ALTAIR will receive funding to support the Navy's Office of Naval Research, Naval Surface Warfare Systems/Cardarock-Philadelphia to develop a fast-start lithium-based battery and develop a long life, high cycle life, fast charge/discharge nano lithium battery. This would permit optimization of the fuel cell for cruising, while increasing system efficiency and operational lifespan. 
+   EYE-COM CORPORATION 
+   Soldier Mounted Eye Tracking and Control Systems: $1.65M 
+   Funding will be used to purchase equipment, materials, and personnel resources to design and develop a Biosensor, Communicator and Controller System that would be integrated in helmet display systems to aid the warfighter in numerous operations such as sentry duty, transportation, and reconnaissance. 
+   2-PHASE TECHNOLOGIES, INC 
+   Rapid Manufacturing and Repair of Composite Components for High Temperature Service: $1.3M 
+   Funding will be used to continue the development and testing of the reconfigurable tooling system that can produce composite parts that can withstand temperatures of 427C (800F) and still remain re-formable and can be used to substantially higher temperatures as permanent tooling. 
+   REVA INTERNATIONAL, LTD. 
+   RI-2200 High-Intensity Searchlights for NAVAIR: $2.3M 
+   Funding will be used to support acquisition by the U.S. Navy's Naval Air Systems Command (NAVAIR) to acquire 2465 RI-2200 high-intensity discharge lighting systems to improve personnel and aircraft safety as well as enhance effectiveness of the service's night operations. 
+   MIS 2000, Inc 
+   Tactical Vehicle Fleet Management System: $1.3M 
+   Specific use for funds: Funds will be used to create a new distributed and hierarchical computer based system for field maintainers who optimize field data through the application of state of the art predictive maintenance tools i.e. prognostics, anomaly detection interactive instruction tools. 
+   ADVANCED MATERIALS AND DEVICES, INC 
+   Novel Compressible Magneto-Rheological (CMR) Fluids and CMR Liquid Spring Dampers: $1.0M 
+   Advanced Materials and Devices, INC will use funding to continue research and development that will enable the increase off-road vehicle mobility and reduction of suspension weight and space. 
+   NEVADA NATIONAL GUARD 
+   C-130 SCATHE View Communication System Improvement: $1.8M 
+   The Nevada National Guard will receive funding to purchase communication systems modifications, which will provide imaging capabilities to support humanitarian relief and non-combatant evacuation operations such as Joint Task Force Katrina. 
+   Large Aircraft Infrared Countermeasures (LAIRCM) System: $3.3M 
+   The Nevada National Guard will receive funding outfit four more of eight planes with Infrared Countermeasures Systems. 
+   Counterdrug Task Force Operations: $3.75M 
+   The Nevada National Guard will receive funding to continue its Counterdrug Operations which provides support to interdiction and demand reduction operations conducted by law enforcement and community agencies statewide. 
+   M-915 Tractor Trucks: $2.6M 
+   The Nevada National Guard will receive funding to purchase M-915A3 Truck Tractors in the Nevada Army National Guard wheeled vehicle fleet and replace Truck Tractors left in theater. 
+   M-1151 HMMWV Utility Trucks: $3.85M 
+   The Nevada National Guard will receive funding to procure a XM114 HMMWVs. 
+   DAY AND ZIMMERMAN 
+   CBU DECASING: $1.95M 
+   Day and Zimmerman will receive funding to continue the development of a safe and environmentally acceptable process for the demilitarization of Combined Bomb Units (CBUs), Improved Conventional Munitions (ICMs), and MLRS. 
+   CONTAINED STATIC ROCKET MOTOR: $1.0M 
+   Day and Zimmerman will receive funding to develop a safe and environmentally acceptable process to demilitarize small tactical rocket motors. 
+   SMALL ROCKET MOTOR DISPOSAL: $1.0M 
+   Day and Zimmerman will also receive funding to develop a safe and environmentally acceptable process for the disposal of small rocket motors and the associated ammonium perchlorate. The program will review the potential methods of demilitarizing small rocket motors and safely disposing of the ammonium perchlorate in the rocket motor propellant. After the process has been identified and the specifications for the procedures and equipment developed, the equipment will be designed, fabricated, installed and the process tested. 
+   NORTHERN NEVADA SPECIAL OPERATIONS TRAINING CENTER 
+   Special Operations Training Center Project: $1.95M 
+   Funding for the Special Operations Training Center Project will be applied to two training structures - the Live Fire Shoot House and a Rappel Tower. 
+   UNIVERSITY OF NEVADA RENO: $0.75M 
+   UNR will receive funding for their Non-lethal Stunning/Immobilizing Weapons program. Specifically it will be used for graduate student support for two students for three years, research technician support, and for equipment and supplies 
+   DESERT RESEARCH INSTITUTE 
+   Alternative Futures at the Range-Complex Level for the SW U.S. $1.0M 
+   DRI will receive funding for a program that will allow the Marine Corps (and Department of Defense) to anticipate and address issues that may affect military mission readiness activities on and between installations and ranges in the Southwest U.S. 
+   Army Landscape Dynamics Support Program (LanDPro) $1.0M 
+   DRI will also receive funding to provide direct support for the military mission at the U.S. Army National Training Center (NTC) and other installations in the southwest U.S. 
+   METALS AFFORDABILITY INITIATIVE ASSOCIATION 
+   Metals Affordability Initiative (MAI): $2.3M 
+   MAI will use funds to continue active programs started in FY 05 and FY 06. An additional 5 new core programs will be started that will accelerate the implementation of enabling, pervasive, new technology into the industrial base to meet critical military system needs identified in the MAI technology roadmap. 
+   VEHICLE PROJECTS, LLC 
+   Defense Fuel Cell Locomotive: $1.95M 
+   Funds will be used to develop a fuel cell-powered road-switcher 
+   GIANT CAMPUS, INC 
+   Online Technology Training Program at Nellis Air Force Base: $1.0M 
+   Funding will be used for the continuation of the on-base training program for Nellis Air Force Base service members, their dependents, DOD retirees and DOD civilians. 
+   O2 DIESEL 
+   Diesel Particulate Emission Reduction Research Project: $1.0M 
+   Funding will be used for new site preparation, fuel acquisition, equipment, materials and labor, testing and verification and project management and oversight.
+ 
+ 

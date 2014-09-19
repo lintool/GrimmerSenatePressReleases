@@ -1,0 +1,63 @@
+SEN. GRASSLEY SEEKS REVIEW OF SEC DECISION TO DECLINE CASE AGAINST BEAR STEARNS
+  Senator Chuck Grassley has asked a top government watchdog to find out why the Enforcement Division of the Securities and Exchange Commission declined to bring a case last year against Bear Stearns for improperly valuing mortgage-related investments.
+   In a letter sent today to the Inspector General of the Securities and Exchange Commission, David Kotz, Grassley requested a thorough investigation into the facts and circumstances surrounding the agency's decision not to pursue enforcement action against Bear Stearns. Grassley also asked Kotz to follow up on previous audit work on the Division of Trading and Markets at the Securities and Exchange Commission. The assessments affect large broker-dealers such as Bear Stearns.
+   Last year, Grassley along with Senator Arlen Specter issued a report on the Securities and Exchange Commission's failed investigation of Pequot Capital Management. The report found that senior agency officials showed extraordinary deference to a particular witness due to his prominence. The August 2007 report is available at http://finance.senate.gov. Click on legislation. Documents are posted in reverse chronological order. 
+   The text of Grassley's letter to the Inspector General today follows below, along with a December 2007 story from the Wall Street Journal.
+   April 2, 2008
+   The Honorable David Kotz
+  Inspector General
+  US Securities and Exchange Commission
+  100 F Street, NE
+  Washington, DC 20549-2736
+   Dear Inspector General Kotz:
+   According to regulatory filings and a December 2007 Wall Street Journal article, the SEC Enforcement Division declined to bring a case against Bear-Stearns for improperly valuing mortgage-related investments. Given the later collapse and federally backed bail-out of Bear-Stearns, Congress needs to understand more about this case and why the SEC ultimately sought no enforcement action.
+   Moreover, I am particularly interested in this case in light of the SEC's failed investigation of Pequot Capital Management. As you know, in the final report of the Senate's inquiry into that matter, we found that senior SEC officials showed extraordinary deference to a particular witness because of his "prominence" as the head of Morgan Stanley.
+   Request for Investigation
+   In light my earlier investigation I need to know whether the same problems identified in the Pequot investigation were repeated in the Bear-Stearns case. Accordingly, I request that you conduct a thorough investigation into the facts and circumstances surrounding the decision to not pursue an enforcement action against Bear-Stearns. Please provide a final report on whether there was any improper action or misconduct relating to SEC investigation of Bear Stearns and its decision to close the investigation. The report should also describe and assess:
+   the nature, extent, and propriety of communications between Bear-Stearns executives or their representatives and senior SEC officials;
+   the decision-making process which led to the SEC's failure to bring an enforcement action following the drafting of a Wells notice;
+   the reasons for declining to proceed with an enforcement action; and
+   the degree to which more aggressive action by the Enforcement Division may have led to an earlier and more complete understanding of the issues that contributed to the collapse of Bear Stearns.
+   Request for Audit
+   In addition to this investigative request, I would also like your office to follow-up on previous audit work relevant to issues surrounding Bear Stearns. The Division of Trading and Markets (Division) is responsible for regulating the largest broker-dealers and the associated holding companies. Offices within the Division are staffed with accountants and economists who are responsible for reviewing the market and credit-risk exposures of the broker dealers. Their review includes assessing broker-dealers' quarterly financial filings, ensuring broker-dealers are meeting net-capital requirements and that other financial ratios, such as liquidity ratios, are adequate. There is a special emphasis in reviewing the five very large broker-dealers, including Bear Stearns, known as the Consolidated Supervised Entity (CSE) Program. The Division staff exercises additional oversight of these firms and examines their risk models.
+   I understand that the OIG conducted a prior audit of these responsibilities in 2002. Please provide an update of the previous findings, determine whether earlier recommendations were implemented, and analyze the current function of these offices. The review should include a description and assessment of their missions, how the programs are run, their policies and procedures, the adequacy of any reviews conducted regarding Bear Stearns, and recommendations for improvements in the process.
+   Sincerely,
+   Charles E. Grassley
+  Ranking Member
+   December 10, 2007 Monday
+   SECTION: Pg. C1
+   LENGTH: 1215 words
+   HEADLINE: Did Authorities Miss a Chance To Ease Crunch? - SEC, Spitzer Probed Bear CDO Pricing in '05, Before Backing Away
+   BYLINE: By Michael Siconolfi
+   BODY:
+   Federal and state authorities may have missed an opportunity two years ago to get ahead of the mortgage-securities-pricing crisis now gripping Wall Street.
+   In 2005, the Securities and Exchange Commission and New York state's attorney general's office launched separate investigations into whether Wall Street securities firm Bear Stearns Cos. harmed investors by improperly valuing complex mortgage securities. Determining the prices of these securities, often based on mathematical models, involves some guesswork, particularly in distressed markets.
+   An SEC branch office said it intended to recommend that Bear Stearns be charged for improperly pricing about $63 million of mortgage securities it sold to a bank; the New York attorney general's office, headed at the time by Eliot Spitzer, had sought information about how Bear priced $16 million of mortgage securities it sold to an institutional client.
+   In each case, government authorities dropped the enforcement cases, according to regulatory filings and people familiar with the matter.
+   The two aborted cases have new resonance amid the credit crunch and resulting crisis engulfing the financial world. It was Bear Stearns 's disclosure of badly priced mortgage securities in two of its internal funds that helped spark this year's mortgage-market and credit convulsions.
+   High-profile enforcement cases could have sent a message to Bear Stearns and other Wall Street firms to attempt to more accurately price mortgage securities. Such a message could have helped blunt the impact of the current crisis, which has led to investor uncertainty over how firms price these mortgage-related instruments.
+   "The right kind of case can have an impact marketwide," says Edward Fleischman, a former SEC commissioner and now a senior counsel at law firm Linklaters.
+   Spokesmen for the SEC and the New York attorney general declined to comment. Bear Stearns said it cooperated with both investigations.
+   The 2005 probes cut to the heart of the issue roiling markets since this summer: determining the true value of securities backed by risky mortgages. Unlike stocks or bonds traded on exchanges, these securities are traded privately between dealers. Values often are based on mathematical pricing models.
+   Wall Street traders long have had a motive to inflate the value of securities because their bonuses often are tied to them. The problem is exacerbated when market trading dries up, as it has in recent months in the mortgage area.
+   During the summer's credit crunch, more than 80% of investors in bonds tied to the mortgage market said they had trouble getting price quotes from bond dealers, according to a survey of 251 institutional investors by Connecticut consulting firm Greenwich Associates.
+   Financial firms have disclosed write-downs totaling more than $40 billion this year involving mortgage-related assets, partly stemming from mark-downs following cuts in the credit ratings of complex securities known as collateralized debt obligations. The SEC in recent months opened broad, new investigations into whether a number of financial firms are properly valuing such investments.
+   In deciding which enforcement cases to bring, regulators must balance factors including the severity of the activity, the difficulty of winning the case and limited staff. The SEC and attorney general's office, for instance, have filed other major enforcement actions in recent years involving securities-firm abuses of small investors. The potential victims in the 2005 probes were savvier institutional investors.
+   Still, enforcement actions can chill bad behavior. The New York attorney general and the SEC have had success brokering settlements and changing industry practices after alleging abuses in stock research and initial public offerings of stock at securities firms and trading abuses involving mutual funds. The office of the current New York attorney general, Andrew Cuomo, recently issued subpoenas to several Wall Street firms, including Bear Stearns, seeking information on the packaging and selling of debt tied to high-risk mortgages.
+   In mid-2005, the SEC's Miami office planned to recommend that Bear Stearns be civilly charged for the way it priced and valued $62.9 million of collateralized debt obligations it sold to W Holding Co.'s Westernbank Puerto Rico bank unit. The probe involved whether Bear Stearns had committed fraud, a person familiar with the matter says.
+   In a regulatory disclosure at the time, Bear Stearns said the SEC staff "intends to recommend that the Commission bring a civil enforcement action" involving the firm's "pricing, valuation, and analysis" of the CDOs, or investments that package pools of loans. The SEC subsequently informed Bear Stearns it had closed the investigation, a separate regulatory filing shows.
+   "You've got me in a situation where my hands essentially are tied," says David Nelson, director of the SEC's Miami Regional Office, which had planned to recommend enforcement action against Bear. Mr. Nelson declines to say why the SEC dropped the case, saying: "Unless something is filed in a court of law, I can't comment."
+   At W Holding, "we took the prices for granted," said President Freddy Maldonado. He said the company believed poor market conditions led to declines in the CDOs it bought from Bear Stearns.
+   Mr. Maldonado says the bank ultimately took a $20 million loss after selling its $63 million CDO portfolio. He says the SEC asked W Holding executives "different questions about pricing" of the CDOs by Bear. W Holding received a letter from the SEC saying its investigation into the bank's "investments in corporate bond and loan obligations has been completed and closed."
+   In a separate 2005 probe, the New York attorney general's office subpoenaed Bear, seeking information tied to some $16 million of such CDOs, a regulatory filing shows.
+   In that case, Bear Stearns was valuing CDOs for an institutional client at more than 90 cents on the dollar, say people familiar with the matter. But when the client wanted to sell the securities back to Bear, the firm priced the CDOs in the high-30s, the people say. A junior employee had handled the pricing of multiple CDOs, the people say.
+   Last month, Bear warned investors it will take a write-down of $1.2 billion for its 2007 fiscal fourth quarter related to mortgage securities, specifically CDOs - creating the first quarterly loss in its 84-year history. In June, two of its internal hedge funds holding mortgage securities began imploding, costing investors more than $1 billion.
+   The Bear funds initially reported a 6.75% loss for April 2007 but were forced two weeks later to tell investors the loss actually was about 18%.
+   Amid the turmoil this year, SEC Chairman Christopher Cox said publicly the agency had opened about a dozen investigations involving CDOs or related investments. He hasn't discussed specific probes but said the SEC is in general looking into how investment funds value their assets.
+   It isn't just regulators who may have missed a chance in 2005 to get ahead of a big problem. Before the attorney general's office dropped its case, it held talks with Bear Stearns about its CDO pricing procedures and staffing levels for valuing the securities.
+   License this article from Dow Jones Reprint Service
+   NOTES:
+   PUBLISHER: Dow Jones & Company, Inc.
+  LOAD-DATE: December 19, 2007
+ 
+ 

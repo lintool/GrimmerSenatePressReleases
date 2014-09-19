@@ -1,0 +1,81 @@
+SUMMARY TO SEN. GRASSLEY AMENDMENT ON UNLAWFUL EMPLOYMENT OF ALIENS
+  Summary of Title III--Unlawful Employment of Aliens
+   Section 301. Unlawful Employment of Aliens 
+   Regarding the Unlawful Employment of Aliens
+   * Makes it illegal to hire, recruit, refer or continue to employ an unauthorized alien. 
+   * Makes it illegal to hire, recruit, refer or continue to employ anyone, unless you participate in the new Electronic Employment Verification System. 
+   * If you hire a subcontractor, you have to get the subcontractor's employer identification number and report that to DHS in order to allow DHS to ensure that the subcontractor is a participating employer.  
+   Order of Internal Review and Certification of Compliance
+   * If the Secretary believes that an employer is not complying with the system, he or she can require the employer to certify that they are either in compliance or have instituted a program for coming into compliance. 
+   Document Verification Requirements
+   * An employer has to attest that he or she has examined the following: 
+   * For citizens either a US Passport or state-issued drivers license 
+   * For aliens, either a permanent resident card or an employment authorization card. 
+   * In the case where an individual cannot get any of those documents, the Secretary can authorize the use of other documents. 
+   * An individual applying for a job has to attest under penalty of perjury that they are legally eligible to work in the US. If the attestation is false, the individual is subject to a $5,000 fine, imprisonment up to 3 years, or both. 
+   * Employers are required to retain documents related to verification. 
+   The Electronic Employer Verification System (EEVS)
+   * DHS and SSA will implement the system to determine whether the information provided by employees to employers - name, social security, date of birth, place of birth, employer identification number and alien registration number, if applicable - is consistent with the information the agencies maintain, and whether or not the employee is eligible to work in the US. 
+   * Every employer must submit employee data for new hires to the system beginning 18 months after the Secretary receives the funds necessary to implement the system. 
+   * The Secretary can allow employers to participate on a voluntary basis before that date and the Secretary can require employers critical to homeland security to participate before full implementation. The Secretary can also require individual employers to participate prior to full implementation if the Secretary has reasonable cause to believe they have violated immigration laws. 
+   Procedurally, the System would work as follows:
+   * Employer hires a worker 
+   * Within 3 days, employer submits worker information to DHS and SSA 
+   * Within 10 days of the submission, the DHS - with help from SSA - either confirms that the worker is legal or it tells the employer that the worker is tentatively nonconfirmed. DHS must do a manual secondary verification prior to tentative nonconfirmation 
+   * If tentatively nonconfirmed, the employer must notify the worker within 3 days. The worker then has 10 days to contest the finding with the DHS. The employer cannot fire the worker during the period of contest 
+   * If the worker fails to contest within 10 days, he or she is automatically nonconfirmed and must be fired 
+   * If the workers contests the tentative nonconfirmation, the DHS has 30 days to make a final decision on whether or not the worker is legal 
+   * During the initial implementation of the system, if DHS cannot confirm or non-confirm worker within 30 days of contest, the worker will receive a default confirmation. The default confirmation process remains in place until DHS can certify that accurate final determinations are made within 30 days 99% of the time. Once the system achieves that level of accuracy, the system will issue a default non-confirmation after 30 days, although DHS will have authority to issue a confirmation in limited circumstances.
+   Responsibilities of the Secretary
+   * Annual report to Congress assessing the accuracy of the system which triggers the automatic default confirmation or nonconfirmation process described above.
+   * The Secretary must establish a process for workers to contest findings in the cases where a tentative nonconfirmation is issued: the worker has to be notified of the reason for the notice, the right to contest, contact information for the agency with which to contest, and a 24-hour 800-number to contact for assistance. 
+   * The Secretary has to provide training materials to employers to assist employers with compliance with the system.
+   Safe Harbor for Employers
+   * If an employer participates in the system and complies with system requirements, they are protected from liability in cases where the system's output is wrong. 
+   Administrative and Judicial Review for Workers
+   * A worker who is fired as a result of a final nonconfirmation can appeal the notice. 
+   * There is also the opportunity for judicial review after administrative review. 
+   * If the termination was not the fault of the worker, the worker has a right to compensation from the Secretary for lost wages. 
+  Limitation on Collection and Use of Data
+   * The DHS can only collect and maintain data as necessary to operate the system. 
+   * Anyone collecting or maintaining unauthorized data is guilty of a misdemeanor and can be fined up to $1,000 for each violation. 
+   * Anyone using data in the system for any unauthorized purpose, including identity fraud, shall be guilty of a felony and fined or imprisoned for up to five years. 
+  Annual GAO Study and Report
+   * Audit the Secretary's report on accuracy of the system; 
+   * Assess the effect of the system on privacy; 
+   * Assess the effect of the system on unauthorized aliens; 
+   * Assess the effect of the system on discrimination in hiring; and 
+   * Asses whether DHS and SSA have the resources needed to operate the System. 
+   Civil Penalties for Employers who hire Unauthorized Workers
+   * $500 - $4,000 for each unauthorized alien. 
+   * $4,000 - $10,000 per unauthorized alien if previously fined within one year. 
+   * $6,000 - $20,000 per unauthorized alien if previously fined more than once in two years. 
+  Penalties for failing to keep records.
+   * $200 - $2,000 for each unauthorized alien. 
+   * $400 - $4,000 per unauthorized alien if previously fined within one year. 
+   * $600 - $6,000 per unauthorized alien if previously fined more than once in two years. 
+   Criminal Penalties for Repeat Violators
+   * Fined up to $20,000 per unauthorized alien and sentenced to up to 3 years in jail. 
+   * Prohibited for receiving federal contracts for 5 years. 
+   Information Sharing between the Commissioner of Social Security and the Department of Homeland Security
+   The DHS may request the following information from SSA during the first three years of the program's operation:
+   * Information about employers who have submitted tax information with more than 100 names and SSNs that do not match SSA records or who have submitted more than 10 W-2 forms with identical names and SSNs; 
+   * Information about employers with employees who appear to be using borrowed or stolen SSNs; 
+   * Information about employers, and their employees, when the employers are not using the EEVS as required; 
+   * Information about all employees of critical employers and employers required by DHS to participate in the system; and 
+   * Information about new employees when the employers are using the EEVS but appear to be hiring new employees without submitting their names to the EEVS 
+   Section 302. Employer Compliance Fund
+   * Special fund established to collect penalties under this Title and used for enhancing and enforcing compliance with this Act.
+   Section 303. Additional Worksite Enforcement and Fraud Detection Agents
+   * Authorizes 2,200 additional agents for the Bureau of Immigration and Customs Enforcement per year over a five year period.
+   Section 304. Clarification of Ineligibility for Misrepresentation
+   * Clarification of definition with respect to attestation of citizenship.
+   Section 305. Antidiscrimination Protections
+   * Expands the class of immigrants protected by Office of Special Counsel (OSC). 
+   * Adds prevention of unfair EEVS practices to OSC responsibilities. 
+   * Increase penalties for all unfair immigration-related activities. 
+   * Increase funding for OSC information campaign. 
+   Amends Title IV
+   * Links the effective date for the Temporary guest worker program to implementation of EEVS.
+ 
+ 

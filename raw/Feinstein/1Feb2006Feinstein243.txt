@@ -1,0 +1,119 @@
+QUESTIONS BY SEN. FEINSTEIN ON PRESIDENT'S WIRETAP AUTHORIZATION
+  In preparation for the Judiciary Committee hearing next week on the President's authorization of wiretaps on U.S. citizens, Sen. Dianne Feinstein sent the following letter and questions to Attorney General Alberto Gonzales: 
+   January 30, 2006 
+   The Honorable Alberto Gonzales 
+  Attorney General
+  Department of Justice
+  950 Pennsylvania Avenue, NW
+  Washington, DC 20530-0001 
+   By U.S. Mail and Electronically 
+   Dear Mr. Attorney General: 
+   I am deeply concerned by recent revelations concerning domestic electronic surveillance and am looking forward to the Judiciary Committee hearing to discuss the authorities under which it has been conducted. Certainly all branches of government must hold as their highest priority protecting the nation against terrorist attack; but underlying that imperative is the importance of following the rule of law. 
+   To assess the Administration's argument that the President has the inherent authority to authorize this surveillance, the Committee will need to review documents relating to the program, including the Presidential order directing that the program be established, the legal memoranda upon which the President relied, and the text of the "45-day reviews" which have been cited by the President. 
+   Further, the Committee cannot assess the legality of the surveillance without understanding certain aspects of the program. Without getting into the technical details of the intelligence collection, Members must understand exactly what surveillance activities have been conducted, how the National Security Agency selected targets of the surveillance, the number of U.S. Persons covered, how and by whom the resulting intelligence was handled, and what actions were taken as a result of such intelligence. 
+   For our February 6, 2006, hearing to be productive, Members must have access to this information in advance. I therefore request that the Committee be provided with as much of this information as possible on an unclassified basis, and that Members and appropriately cleared staff have reasonable access to the relevant classified documents and information. 
+   In addition to this general request, I have attached a set of written questions which cover many of the issues which I hope will be explored during the hearing. I would greatly appreciate if you would be prepared to address these questions in detail at the hearing. To the extent you are able to answer these questions in advance of the hearing, it would be much appreciated. Further, some of the questions reference specific requests for documents. I would appreciate if you could forward such documents prior to the hearing, and if classified, through the Office of Senate Security. 
+   I appreciate your cooperation with this request and look forward to working with you in the coming weeks and months. 
+   Sincerely, 
+   Dianne Feinstein
+  United States Senator
+   Encl: Questions to the Attorney General
+   Senator Dianne Feinstein Questions to the Attorney General in advance of Senate Judiciary Committee hearings on "Wartime Executive Power and the NSA's Surveillance Authority." 
+   January 30, 2006 
+   1. I have been informed by former Majority Leader Senator Tom Daschle that the Administration asked that language be included in the "Joint Resolution to Authorize the use of United States Armed Forces against those responsible for the recent attacks launched against the United States" (P.L. 107-40) (hereinafter "the Authorization" or "AUMF") which would add the words "in the United States" to its text, after the words "appropriate force." 
+   * Who in the Administration contacted Senator Daschle with this request? 
+   * Please provide copies of any communication reflecting this request, as well as any documents reflecting the legal reasoning which supported this request for additional language. 
+   2. Did any Administration representative communicate to any Member of Congress the view that the language of the Authorization as approved would provide legal authority for what otherwise would be a violation of the criminal prohibition of domestic electronic collection within the United States? 
+   * If so, who in the Administration made such communications? 
+   * Are there any contemporaneous documents which reflect that view within the Administration? 
+   3. According to Assistant Attorney General William Moschella's letter of December 22, 2005, and the subsequent "White Paper," it is the view of the Department of Justice that the Authorization "satisfies section [FISA section] 109's requirement for statutory authorization of electronic surveillance." [1] 
+   * Are there other statutes which, in the view of the Department, have been similarly affected by the passage of the Authorization? 
+   * If so, please provide a comprehensive list of these statutes. 
+   * Has the President, or any other senior Administration official, issued any order or directive based on the AUMF which modifies, supersedes or alters the application of any statute? 
+   4. The National Security Act of 1947, as amended, provides that "[a]ppropriated funds available to an intelligence agency may be obligated or expended for an intelligence or intelligence-related activity only if... (1) those funds were specifically authorized by the Congress for use for such activities..." [2] It appears that the domestic electronic surveillance conducted within the United States by the National Security Agency was not "specifically authorized," and thus may be prohibited by the National Security Act of 1947. 
+   * What legal authority would justify expending funds in support of this program without the required authorization? 
+   5. The Constitution provides that "[n]o money shall be drawn from the Treasury, but in consequence of appropriations made by law." [3] Title 31, Section 1341 (the Anti-Deficiency Act) provides that "[a]n officer or employee of the United States Government... may not-- make or authorize an expenditure or obligation exceeding an amount available in an appropriation or fund for the expenditure or obligation," and Section 1351 of the same Title adds that "an officer or employee of the United States Government or of the District of Columbia government knowingly and willfully violating sections 1341(a) or 1342 of this title shall be fined not more than $5,000, imprisoned for not more than 2 years, or both." In sum, the Constitution prohibits, and the law makes criminal, the spending of funds except those funds appropriated in law. 
+   * Were the funds expended in support of this program appropriated? 
+   * If yes, which law appropriated the funds? 
+   * Please identify, by name and title, what "officer or employee" of the United States made or authorized the expenditure of the funds in support of this program? 
+   6. Are there any other intelligence programs or activities, including, but not limited to, monitoring internet searches, emails and online purchases, which, in the view of the Department of Justice, have been authorized by law, although kept secret from some members of the authorizing committee? 
+   * If so, please list and describe such programs. 
+   7. Are there any other expenditures which have been made or authorized which have not been specifically appropriated in law, and which have been kept secret from members of the Appropriations Committee? 
+   * If so, please list and describe such programs. 
+   8. At a White House press briefing, on December 19, 2005, you stated that that the Administration did not seek authorization in law for this NSA surveillance program because "you were advised that that was not ....something [you] could likely get" from Congress. 
+   * What were your sources of this advice? 
+   * As a matter of constitutional law, is it the view of the Department that the scope of the President's authority increases when he believes that the legislative branch will not pass a law he approves of? 
+   9. The Department of Justice's position, as explained in the Moschella Letter and the subsequent White Paper, is that even if the AUMF is determined not to provide the legal authority for conduct which otherwise would be prohibited by law, the President's "inherent" powers as Commander-in-Chief provide independent authority. 
+   * Is this an accurate assessment of the Department's position? 
+   10. Based on the Moschella Letter and the subsequent White Paper, I understand that it is the position of the Department of Justice that the National Security Agency, with respect to this program of domestic electronic surveillance, is functioning as an element of the Department of Defense generally, and as one of a part of the "Armed Forces of the United States," as referred to in the AUMF. 
+   * Is this an accurate understanding of the Department's position? 
+   11. Article I Section 8 of the Constitution provides that the Congress "shall make Rules for the Government and Regulation of the land and naval forces." It appears that the Foreign Intelligence Surveillance Act (FISA), as applied to the National Security Agency, is precisely the type of "Rule" provided for in this section. 
+   * Is it the position of the Department of Justice that the President's Commander-in-Chief power is superior to the Article I Section 8 powers of Congress? 
+   * Does the Department of Justice believe that if the President disagrees with a law passed by Congress as part of its responsibility to regulate the Armed Forces, the law is not binding? 
+   12. On January 24, 2006, during an interview with CNN, you said that "[a]s far as I'm concerned, we have briefed the Congress... [t]hey're aware of the scope of the program." 
+   * Please explain the basis for the assertion that I was briefed on this program, or that I am "aware of the scope of the program." 
+   13. It appears from recent press reports that Mr. Rove has been briefed about this program, which, as I understand it, is considered too sensitive to brief to Senators who are members of the Senate Intelligence Committee. 
+   * Who decided that Mr. Rove was to be briefed about the program, and what is his need-to-know? 
+   * Is the program classified pursuant to Executive Order 12958, and if so, who was the classifying authority, and under what authority provided in Executive Order 12958 was the classification decision made? 
+   * How many executive branch officials have been advised of the nature, scope and content of the program? Please provide a list of their names and positions. 
+   * How many individuals outside the executive branch have been advised of the nature, scope and content of the program? Please provide a list of their names and positions. 
+   14. The AUMF authorizes the President to use "all necessary and appropriate force against those nations, organizations, or persons he determines planned, authorized, committed, or aided the terrorist attacks that occurred on September 11, 2001, or harbored such organizations or persons, in order to prevent any future acts of international terrorism against the United States by such nations, organizations or persons." 
+   * What do you believe are the conditions under which the President's authority to conduct the NSA program pursuant to the Authorization would expire? 
+   15. The Department of Justice White Paper states that the program is used when there is a "reasonable basis" to conclude that one party is a member of al Qaeda, affiliated with al Qaeda, or a member of an organization affiliated with al Qaeda. 
+   * Can the program be used against a person who is a member of an organization affiliated with al Qaeda, but where the organization has no connection to the 9/11 attacks themselves? 
+   * Can you define the terms "reasonable basis" and "affiliated?" Are there any examples, for instance, from criminal law that can describe the "reasonable basis" standard that is being used for the NSA program? What about "affiliated?" 
+   * Is it comparable to the "agent of" standard in FISA? 
+   * Can the program be used to prevent terrorist attacks by an organization other than al Qaeda? 
+   16. In addition to open combat, the detention of enemy combatants and electronic surveillance, what else do you consider being "incident to" the use of military force? Are interrogations of captives "incident to" the use of military force? 
+   17. The program is reportedly defined as where one party is in the U.S. and one party in a foreign country. Regardless of how the program is actually used, does the AUMF authorize the President to use the program against calls or emails entirely within the U.S.? 
+   18. FISA has safeguard provisions for the destruction of information that is not foreign intelligence. For instance, albeit with some specific exceptions, if no FISA order is obtained within 72 hours, material gathered without a warrant is destroyed. 
+   * Are there procedures in place for the destruction of information collected under the NSA program that is not foreign intelligence? 
+   * If so, what are the procedures? 
+   * Who determines whether the information is retained?
+   19. The DOJ White Paper relies on broad language in the preamble that is contained in both the AUMF and the Authorization for the Use of Military Force Against Iraq as a source of the President's authority. 
+   * Does the Iraq Resolution provide similar authority to the President to engage in electronic surveillance? For instance, would it have been authorized to conduct surveillance of communications between an individual in the U.S. and someone in Iraq immediately after the invasion? 
+   20. In a December 17, 2005, radio address the President stated, "I authorized the National Security Agency...to intercept the international communications of people with known links to al Qaeda and related terrorist organizations." 
+   * What is the standard for establishing a link between a terrorist organization and a target of this program? 
+   * How many such communications have been intercepted during the life of this program? How many disseminated intelligence reports have resulted from this collection? 
+   * Has the NSA intercepted under this program any communications by journalists, clergy, non-governmental organizations (NGOs) or family members of U.S. military personnel? If so, for what purpose, and under what authority? 
+   21. In a December 17, 2005, radio address the President stated, "The activities I authorized are reviewed approximately every 45 days...The review includes approval by our Nation's top legal officials, including the Attorney General and the Counsel to the President." 
+   * As White House Counsel during the first 4 years this program was implemented, were you aware of this program and of the legal arguments supporting it when this Committee considered your nomination to be Attorney General? 
+   * Who is responsible for determining whether to reauthorize this program, and upon what basis is this determination made? 
+   22. In a Press Briefing on December 19, 2005, you said that you "believe the President has the inherent authority under the Constitution, as Commander-in-Chief, to engage in this kind of activity [domestic surveillance]." This authority is further asserted in the Department of Justice White Paper of January 19, 2005. 
+   * Has the President ever invoked this authority, with respect to any activity other than the NSA surveillance program? 
+   * Has any other order or directive been issued by the President, or any other senior administration official, based on such authority which authorizes conduct which would otherwise be prohibited by law? 
+   i. Can the President suspend (in secret or otherwise) the application of Section 503 of the National Security Act of 1947 (50 U.S.C. 413(b)), which states that "no covert action may be conducted which is intended to influence United States political processes, public opinion, policies or media?"
+   1. If so, has such authority been exercised?
+   ii. Can the President suspend (in secret or otherwise) the application of the Posse Comitatus Act (18 U.S.C 1385)?
+   1. If so, has such authority been exercised?
+   iii. Can the President suspend (in secret or otherwise) the application of 18 U.S.C. 1001, which prohibits "the making of false statements within the executive, legislative, or judicial branch of the Government of the United States."
+   1. If so, has such authority been exercised? 
+   23. Had the Department of Justice adopted the interpretation of the AUMF asserted in the Moschella letter and subsequent White Paper at the time it discussed the USA-Patriot Act with members of Congress? That act substantially altered FISA, and yet, to my knowledge, there was no discussion of the legal conclusions you now assert - that the AUMF has triggered the "authorized by other statute" wording of FISA. 
+   * Please provide any communications, internal or external, which are contemporaneous to the negotiation of the USA-Patriot Act, which contain information regarding this question. 
+   24. The USA-Patriot Act reauthorization bill is currently being considered by the Congress. Among the provisions at issue is Section 215, which governs the physical search authorization under FISA. Does the legal analysis proposed by the Department also apply to this section of FISA? If so, is the Department's position that, regardless of whether the Congress adopts the pending Conference Report, the Senate bill language, or some other formulation, the President may order the application of a different standard or procedure based on the AUMF or his Commander-in-Chief authority? 
+   * If so, is there any need to reauthorize those sections of the USA-Patriot Act which authorize domestic surveillance? 
+   25. Public statements made by you, as well as the President, imply that this program is used to identify terrorist operatives within the United States. Have any such operatives in fact been identified? If so, have these individuals been detained, and if so, where, and under what authority? Have any been killed? 
+   * The arrest and subsequent detention of Jose Padilla is, to my knowledge, the last public acknowledgment of the apprehension of an individual classified as an "enemy combatant" within the United States. Have there been any other people identified as an "enemy combatant" and detained with the United States, and if so, what has been done with these individuals? 
+   26. Senator Roberts has stated that the program is limited to: "when we know within a terrorist cell overseas that there is a plot and that plot is very close to its conclusion or that plot is very close to being waged against America - now, if a call comes in from an Al Qaida cell and it is limited to that where we have reason to believe that they are planning an attack, to an American phone number, I don't think we're violating anybody's Fourth Amendment rights in terms of civil liberties." [4] 
+   * Is the program limited to such imminent threats against the United States, or where an attack is being planned? Is this an accurate description of the program? 
+   27. In a speech given in Buffalo, New York by the President, in April 2004, he said: "Now, by the way, any time you hear the United States government talking about wiretap, it requires - a wiretap requires a court order. Nothing has changed, by the way. When we're talking about chasing down terrorists, we're talking about getting a court order before we do so. It's important for our fellow citizens to understand, when you think Patriot Act, constitutional guarantees are in place when it comes to doing what is necessary to protect our homeland, because we value the Constitution." [5] 
+   * Is this statement accurate? 
+   28. According to press reports, the Administration at some point determined that the authorities provided in the FISA were, in their view, inadequate to support the President's Commander-in-Chief responsibilities. 
+   * At what point was this determination reached? 
+   * Who reached this determination? 
+   * If such a determination had been reached, why did the Administration conceal the view that existing law was inadequate from the Congress? 
+   29. Based upon press reports, it does not appear that the NSA surveillance program at issue makes use of any intelligence sources and methods which have not been briefed (in a classified setting) to the Intelligence Committees. Other than the adoption of a legal theory which allows the NSA to undertake surveillance which on its face would be prohibited by law, what about this program is secret or sensitive? 
+   * Is there any precedent for developing a body of secret law such as has been revealed by last month's New York Times article about the NSA surveillance program? 
+   30. At a public hearing of the Senate/House Joint Inquiry, then-NSA Director Hayden said: "My goal today is to provide you and the American people with as much insight as possible into three questions: (a) What did NSA know prior to September 11th, (b) what have we learned in retrospect, and (c) what have we done in response? I will be as candid as prudence and the law allow in this open session. If at times I seem indirect or incomplete, I hope that you and the public understand that I have discussed our operations fully and unreservedly in earlier closed sessions" (emphasis added). [6] 
+   * Under what, if any, legal authority did General Hayden make this inaccurate statement to the Congress (and to the public)? 
+   31. Were any collection efforts undertaken pursuant to this program based on information obtained by torture? 
+   * Was the possibility that information obtained by torture would be rejected by the FISA court as a basis for granting a FISA warrant a reason for undertaking this program? 
+   32. If the President determined that a truthful answer to questions posed by the Congress to you, including the questions asked here, would hinder his ability to function as Commander-in-Chief, does the AUMF, or his inherent powers, authorize you to provide false or misleading answers to such questions? 
+   [1] Letter, Assistant Attorney General Williams Moschella to Senator Pat Roberts, et al., December 22, 2005, at p. 3 (hereinafter "Moschella Letter")
+   [2] National Security Act of 1947, as amended, Section 504, codified at 50 U.S.C. 414.
+   [3] U.S. Constitution, Article I, Section 7.
+   [4] Senator Pat Roberts, CNN Late Edition with Wolf Blitzer, January 29, 2006
+   [5] Information Sharing, Patriot Act Vital to Homeland Security, Remarks by the President in a Conversation on the USA Patriot Act, Kleinshans Music Hall, Buffalo, New York, April 20, 2004
+   [6] Statement for the Record by Lieutenant General Michael V. Hayden, USAF, Director, National Security Agency/Chief. Central Security Service, Before the Joint Inquiry of the Senate Select Committee on Intelligence and the House Permanent Select Committee on Intelligence, 17 October 2002, available at http://intelligence.senate.gov/0210hrg/021017/hayden.pdf
+ 
+ 

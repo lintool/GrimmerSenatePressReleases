@@ -1,0 +1,1322 @@
+edu_mat<- matrix(0, nrow=3, ncol=2)#
+diag(edu_mat)<- 1#
+#
+party_id_mat<- matrix(0, nrow=4, ncol=3)#
+party_id_mat[1,1]<- party_id_mat[2,2]<- party_id_mat[3,3]<- 1#
+inc_mat<- matrix(0, nrow=3, ncol=2)#
+diag(inc_mat)<- 1#
+#
+ideo_mat<- matrix(0, nrow=4, ncol=3)#
+diag(ideo_mat)<- 1#
+#
+fem_mat<- c(1,0)#
+#
+age_mat<- matrix(0, nrow=4, ncol=3)#
+diag(age_mat)<- 1#
+white_mat<- c(1,0)#
+treat_counter<- matrix(0, nrow=6, ncol=6)#
+diag(treat_counter)<- 1#
+#
+treat.mat<- cont.mat<- matrix(NA, nrow=124416, ncol=202)#
+a<- 0#
+sen_dem_mat<- c(1,0)#
+#
+ideals <- c(-1.5, -1, 0.07, 0.27, 1, 1.5)#
+#
+for(aa in 1:nrow(edu_mat)){#
+	for(bb in 1:nrow(inc_mat)){#
+		for(cc in 1:nrow(age_mat)){#
+			for(dd in 1:len(fem_mat)){#
+				for(ee in 1:len(white_mat)){#
+					for(ff in 1:nrow(ideo_mat)){#
+						for(gg in 1:nrow(party_id_mat)){#
+							if(party_id_mat[gg,1]==1|party_id_mat[gg,2]==1){#
+								strong_mat<- c(1,0)}#
+							else{#
+								strong_mat<- 0}#
+							for(hh in 1:len(strong_mat)){#
+								for(ii in 1:len(sen_dem_mat)){#
+									for(jj in 1:3){#
+										for(kk in 1:6){#
+										ins_ideal<- ifelse(sen_dem_mat[ii]==1, ideals[1:3][jj], ideals[4:6][jj])#
+										abs_ins_ideal<- abs(ins_ideal)#
+										m_ins<- ifelse((party_id_mat[gg,1]==1 & sen_dem_mat[ii]==1)|(party_id_mat[gg,2]==1 & sen_dem_mat[ii]==0), 1, 0)#
+										a<- a + 1#
+										 if(party_id_mat[gg,1]==1){strong_ins<-c(strong_mat[hh], 0)}#
+										if(party_id_mat[gg,2]==1){strong_ins<- c(0, strong_mat[hh])}#
+										if(party_id_mat[gg,3]==1| sum(party_id_mat[gg,])==0){strong_ins<- c(0,0)}										#
+										part_ab<- c(edu_mat[aa,], inc_mat[bb,], age_mat[cc, ], fem_mat[dd], white_mat[ee], ideo_mat[ff,], party_id_mat[gg,], strong_ins, sen_dem_mat[ii], m_ins, ins_ideal, abs_ins_ideal, abs_ins_ideal*m_ins, ideo_mat[ff,1]*ins_ideal, ideo_mat[ff,2]*ins_ideal, party_id_mat[gg,1]*m_ins, party_id_mat[gg,2]*m_ins, strong_ins*m_ins)#
+										treat.mat[a,1:28]<- part_ab#
+										treat.mat[a,29:34]<- treat_counter[kk,]#
+										cols<- 35#
+										for(ll in 1:6){#
+											for(mm in 1:28){#
+												treat.mat[a,cols]<- treat_counter[kk,ll]*treat.mat[a,mm]#
+												cols<- cols + 1#
+												}#
+											}#
+										}#
+									}#
+								}#
+							}#
+						}#
+					}#
+				}#
+			}#
+		}#
+	}#
+}
+len<- length
+edu_mat<- matrix(0, nrow=3, ncol=2)#
+diag(edu_mat)<- 1#
+#
+party_id_mat<- matrix(0, nrow=4, ncol=3)#
+party_id_mat[1,1]<- party_id_mat[2,2]<- party_id_mat[3,3]<- 1#
+inc_mat<- matrix(0, nrow=3, ncol=2)#
+diag(inc_mat)<- 1#
+#
+ideo_mat<- matrix(0, nrow=4, ncol=3)#
+diag(ideo_mat)<- 1#
+#
+fem_mat<- c(1,0)#
+#
+age_mat<- matrix(0, nrow=4, ncol=3)#
+diag(age_mat)<- 1#
+white_mat<- c(1,0)#
+treat_counter<- matrix(0, nrow=6, ncol=6)#
+diag(treat_counter)<- 1#
+#
+treat.mat<- cont.mat<- matrix(NA, nrow=124416, ncol=202)#
+a<- 0#
+sen_dem_mat<- c(1,0)#
+#
+ideals <- c(-1.5, -1, 0.07, 0.27, 1, 1.5)#
+#
+for(aa in 1:nrow(edu_mat)){#
+	for(bb in 1:nrow(inc_mat)){#
+		for(cc in 1:nrow(age_mat)){#
+			for(dd in 1:len(fem_mat)){#
+				for(ee in 1:len(white_mat)){#
+					for(ff in 1:nrow(ideo_mat)){#
+						for(gg in 1:nrow(party_id_mat)){#
+							if(party_id_mat[gg,1]==1|party_id_mat[gg,2]==1){#
+								strong_mat<- c(1,0)}#
+							else{#
+								strong_mat<- 0}#
+							for(hh in 1:len(strong_mat)){#
+								for(ii in 1:len(sen_dem_mat)){#
+									for(jj in 1:3){#
+										for(kk in 1:6){#
+										ins_ideal<- ifelse(sen_dem_mat[ii]==1, ideals[1:3][jj], ideals[4:6][jj])#
+										abs_ins_ideal<- abs(ins_ideal)#
+										m_ins<- ifelse((party_id_mat[gg,1]==1 & sen_dem_mat[ii]==1)|(party_id_mat[gg,2]==1 & sen_dem_mat[ii]==0), 1, 0)#
+										a<- a + 1#
+										 if(party_id_mat[gg,1]==1){strong_ins<-c(strong_mat[hh], 0)}#
+										if(party_id_mat[gg,2]==1){strong_ins<- c(0, strong_mat[hh])}#
+										if(party_id_mat[gg,3]==1| sum(party_id_mat[gg,])==0){strong_ins<- c(0,0)}										#
+										part_ab<- c(edu_mat[aa,], inc_mat[bb,], age_mat[cc, ], fem_mat[dd], white_mat[ee], ideo_mat[ff,], party_id_mat[gg,], strong_ins, sen_dem_mat[ii], m_ins, ins_ideal, abs_ins_ideal, abs_ins_ideal*m_ins, ideo_mat[ff,1]*ins_ideal, ideo_mat[ff,2]*ins_ideal, party_id_mat[gg,1]*m_ins, party_id_mat[gg,2]*m_ins, strong_ins*m_ins)#
+										treat.mat[a,1:28]<- part_ab#
+										treat.mat[a,29:34]<- treat_counter[kk,]#
+										cols<- 35#
+										for(ll in 1:6){#
+											for(mm in 1:28){#
+												treat.mat[a,cols]<- treat_counter[kk,ll]*treat.mat[a,mm]#
+												cols<- cols + 1#
+												}#
+											}#
+										}#
+									}#
+								}#
+							}#
+						}#
+					}#
+				}#
+			}#
+		}#
+	}#
+}
+load('~/dropbox/creditClaimingProjects/het/Allocate/AllocationHet.RData')
+covs <- list.transfer$covs
+treats<- list.transfer$treats
+Y<- list.transfer$Y
+model.mat <- list.transfer$model.mat
+cont.mat<- treat.mat
+cont.mat[,29:202]<- 0
+cont.mat<- cbind(1, cont.mat)
+treat.mat<- cbind(1, treat.mat)
+colnames(treat.mat)<- colnames(cont.mat)<- colnames(model.mat)
+colnames(treat.mat)<- gsub('covs', '', colnames(treat.mat))
+colnames(treat.mat)<- gsub('treats', 'treat', colnames(treat.mat))
+colnames(cont.mat)<-  gsub('covs', '', colnames(cont.mat))
+colnames(cont.mat)<- gsub('treats', 'treat', colnames(treat.mat))
+load('~/dropbox/creditClaimingProjects/het/Allocate/Pred_Alloc.RData')
+round(preds, 4)
+round(preds$Weight, 4)
+diff<- preds$Treated - preds$Control
+final.eff<- rep(NA, nrow(diff))
+for(j in 1:len(final.eff)){
+final.eff[j]<- diff[j,]%*%preds$Weights
+}
+create.plot<- function(var2, pos.values, vert.label, xlim=c(-0.4, 0.4), left = 6, right= 6){#
+	num.facts<- len(vert.list)#
+	fill<- matrix(0, nrow=6, ncol=num.facts)#
+	tt<- 1:nrow(treat.mat)#
+		av.effect<- function(subset){#
+	out<- mean(final.eff[subset])#
+	print(out)#
+	}#
+	for(z in 1:6){#
+		for(k in 1:num.facts){#
+				if(z ==1){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond1==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==2){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond2==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==3){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond3==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==4){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond4==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==5){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond5==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==6){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond6==1 & var2==pos.values[[k]]))#
+					}#
+				}#
+			}#
+		fill2<- fill[c(3, 1, 6, 5, 4, 2),]#
+	#	rank.fills<- apply(fill2, 2, rank.func)#
+		par(mar=c(2, left, 1, right))#
+		par(las=1)	#
+		par(cex.lab = 1.25)#
+		plot(c(0,1)~c(0,1), pch='', xlab='', ylab='', axes = F, ylim=c(1, 6*num.facts), xlim= xlim, frame.plot=F)	#
+		for(z in 1:6){#
+			for(k in 1:num.facts){#
+				a<- 0#
+		seqs<- seq(xlim[1], xlim[2], by=0.025)#
+		for(aa in 1:len(seqs)){#
+			arrows(seqs[aa], -10, seqs[aa], 1e7, len=0, lty=2, col=gray(0.6))#
+			}#
+		seq2<- seq(1, 6*num.facts)	#
+		for(aa in 1:len(seq2)){#
+			arrows(-10, aa, 10, aa, len=0, col=gray(0.8))#
+			}#
+		arrows(0, -10, 0, 1e7, len=0, lwd=2)#
+		axis(1, seq(round(xlim[1], 2), round(xlim[2],2), by=0.1))#
+		axis(3, seq(round(xlim[1], 2), round(xlim[2],2), by=0.1))#
+		base.lab<-  c('WillRequest\nSupport', 'WillRequest\nMoney', 'RequestSupport', 'RequestMoney', 'SecuredSupport', 'SecuredMoney')#
+		labs<- c()#
+		a<- 0#
+		for(z in 1:6){#
+			for(k in 1:num.facts){#
+				a<- a + 1#
+				points(fill2[z,k], a, pch=20, cex = 2)#
+				labs<- c(labs, vert.label[k])#
+				}#
+				}#
+		axis(2, 1:(6*num.facts), labs)#
+		for(z in 1:6){#
+				seqs<- count:(count + num.facts - 1)#
+				axis(4, c(count , median(seqs),  count + num.facts-1), c('', base.lab[z], ''))#
+				count<- count + num.facts  #
+				}#
+}
+}
+create.plot<- function(var2, pos.values, vert.label, xlim=c(-0.4, 0.4), left = 6, right= 6){#
+	num.facts<- len(vert.list)#
+	fill<- matrix(0, nrow=6, ncol=num.facts)#
+	tt<- 1:nrow(treat.mat)#
+		av.effect<- function(subset){#
+	out<- mean(final.eff[subset])#
+	print(out)#
+	}#
+	for(z in 1:6){#
+		for(k in 1:num.facts){#
+				if(z ==1){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond1==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==2){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond2==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==3){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond3==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==4){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond4==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==5){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond5==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==6){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond6==1 & var2==pos.values[[k]]))#
+					}#
+				}#
+			}#
+		fill2<- fill[c(3, 1, 6, 5, 4, 2),]#
+	#	rank.fills<- apply(fill2, 2, rank.func)#
+		par(mar=c(2, left, 1, right))#
+		par(las=1)	#
+		par(cex.lab = 1.25)#
+		plot(c(0,1)~c(0,1), pch='', xlab='', ylab='', axes = F, ylim=c(1, 6*num.facts), xlim= xlim, frame.plot=F)	#
+		a<- 0#
+		seqs<- seq(xlim[1], xlim[2], by=0.025)#
+		for(aa in 1:len(seqs)){#
+			arrows(seqs[aa], -10, seqs[aa], 1e7, len=0, lty=2, col=gray(0.6))#
+			}#
+		seq2<- seq(1, 6*num.facts)	#
+		for(aa in 1:len(seq2)){#
+			arrows(-10, aa, 10, aa, len=0, col=gray(0.8))#
+			}#
+		arrows(0, -10, 0, 1e7, len=0, lwd=2)#
+		axis(1, seq(round(xlim[1], 2), round(xlim[2],2), by=0.1))#
+		axis(3, seq(round(xlim[1], 2), round(xlim[2],2), by=0.1))#
+		base.lab<-  c('WillRequest\nSupport', 'WillRequest\nMoney', 'RequestSupport', 'RequestMoney', 'SecuredSupport', 'SecuredMoney')#
+		labs<- c()#
+		a<- 0#
+		for(z in 1:6){#
+			for(k in 1:num.facts){#
+				a<- a + 1#
+				points(fill2[z,k], a, pch=20, cex = 2)#
+				labs<- c(labs, vert.label[k])#
+				}#
+				}#
+		axis(2, 1:(6*num.facts), labs)#
+		for(z in 1:6){#
+				seqs<- count:(count + num.facts - 1)#
+				axis(4, c(count , median(seqs),  count + num.facts-1), c('', base.lab[z], ''))#
+				count<- count + num.facts  #
+				}#
+}
+unique(treat.mat$sen_ideals)
+unique(treat.mat$sen_ideal)
+colnames(treat.mat)[1:50]
+treat.mat<- data.frame(treat.mat)
+unique(treat.mat$sen_ideals)
+var2<- rep(0, nrow(treat.mat))
+var2<- rep(0, nrow(treat.mat))#
+var2[which(treat.mat$sen_ideals==-1.5)]<- 1#
+var2[which(treat.mat$sen_ideals==-1)]<- 2#
+var2[which(treat.mat$sen_ideals==0.07)]<- 3#
+var2[which(treat.mat$sen_ideals==0.27)]<- 4#
+var2[which(treat.mat$sen_ideals==1)]<- 5#
+var2[which(treat.mat$sen_ideals==1.5)]<- 6
+create.plot(var2, 1:6, c('Lib_Dem', 'Med_Dem', 'Mod_Dem', 'Mod_Rep', 'Med_Rep', 'Cons_Rep'))
+create.plot<- function(var2, pos.values, vert.label, xlim=c(-0.4, 0.4), left = 6, right= 6){#
+	num.facts<- len(pos.values)#
+	fill<- matrix(0, nrow=6, ncol=num.facts)#
+	tt<- 1:nrow(treat.mat)#
+		av.effect<- function(subset){#
+	out<- mean(final.eff[subset])#
+	print(out)#
+	}#
+	for(z in 1:6){#
+		for(k in 1:num.facts){#
+				if(z ==1){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond1==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==2){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond2==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==3){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond3==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==4){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond4==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==5){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond5==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==6){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond6==1 & var2==pos.values[[k]]))#
+					}#
+				}#
+			}#
+		fill2<- fill[c(3, 1, 6, 5, 4, 2),]#
+	#	rank.fills<- apply(fill2, 2, rank.func)#
+		par(mar=c(2, left, 1, right))#
+		par(las=1)	#
+		par(cex.lab = 1.25)#
+		plot(c(0,1)~c(0,1), pch='', xlab='', ylab='', axes = F, ylim=c(1, 6*num.facts), xlim= xlim, frame.plot=F)	#
+		a<- 0#
+		seqs<- seq(xlim[1], xlim[2], by=0.025)#
+		for(aa in 1:len(seqs)){#
+			arrows(seqs[aa], -10, seqs[aa], 1e7, len=0, lty=2, col=gray(0.6))#
+			}#
+		seq2<- seq(1, 6*num.facts)	#
+		for(aa in 1:len(seq2)){#
+			arrows(-10, aa, 10, aa, len=0, col=gray(0.8))#
+			}#
+		arrows(0, -10, 0, 1e7, len=0, lwd=2)#
+		axis(1, seq(round(xlim[1], 2), round(xlim[2],2), by=0.1))#
+		axis(3, seq(round(xlim[1], 2), round(xlim[2],2), by=0.1))#
+		base.lab<-  c('WillRequest\nSupport', 'WillRequest\nMoney', 'RequestSupport', 'RequestMoney', 'SecuredSupport', 'SecuredMoney')#
+		labs<- c()#
+		a<- 0#
+		for(z in 1:6){#
+			for(k in 1:num.facts){#
+				a<- a + 1#
+				points(fill2[z,k], a, pch=20, cex = 2)#
+				labs<- c(labs, vert.label[k])#
+				}#
+				}#
+		axis(2, 1:(6*num.facts), labs)#
+		for(z in 1:6){#
+				seqs<- count:(count + num.facts - 1)#
+				axis(4, c(count , median(seqs),  count + num.facts-1), c('', base.lab[z], ''))#
+				count<- count + num.facts  #
+				}#
+}
+create.plot(var2, 1:6, c('Lib_Dem', 'Med_Dem', 'Mod_Dem', 'Mod_Rep', 'Med_Rep', 'Cons_Rep'), )
+create.plot<- function(var2, pos.values, vert.label, xlim=c(-0.4, 0.4), left = 6, right= 6){#
+	num.facts<- len(pos.values)#
+	fill<- matrix(0, nrow=6, ncol=num.facts)#
+	tt<- 1:nrow(treat.mat)#
+		av.effect<- function(subset){#
+	out<- mean(final.eff[subset])#
+	print(out)#
+	}#
+	for(z in 1:6){#
+		for(k in 1:num.facts){#
+				if(z ==1){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond1==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==2){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond2==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==3){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond3==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==4){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond4==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==5){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond5==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==6){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond6==1 & var2==pos.values[[k]]))#
+					}#
+				}#
+			}#
+		fill2<- fill[c(3, 1, 6, 5, 4, 2),]#
+	#	rank.fills<- apply(fill2, 2, rank.func)#
+		par(mar=c(2, left, 1, right))#
+		par(las=1)	#
+		par(cex.lab = 1.25)#
+		plot(c(0,1)~c(0,1), pch='', xlab='', ylab='', axes = F, ylim=c(1, 6*num.facts), xlim= xlim, frame.plot=F)	#
+		a<- 0#
+		seqs<- seq(xlim[1], xlim[2], by=0.025)#
+		for(aa in 1:len(seqs)){#
+			arrows(seqs[aa], -10, seqs[aa], 1e7, len=0, lty=2, col=gray(0.6))#
+			}#
+		seq2<- seq(1, 6*num.facts)	#
+		for(aa in 1:len(seq2)){#
+			arrows(-10, aa, 10, aa, len=0, col=gray(0.8))#
+			}#
+		arrows(0, -10, 0, 1e7, len=0, lwd=2)#
+		axis(1, seq(round(xlim[1], 2), round(xlim[2],2), by=0.1))#
+		axis(3, seq(round(xlim[1], 2), round(xlim[2],2), by=0.1))#
+		base.lab<-  c('WillRequest\nSupport', 'WillRequest\nMoney', 'RequestSupport', 'RequestMoney', 'SecuredSupport', 'SecuredMoney')#
+		labs<- c()#
+		a<- 0#
+		for(z in 1:6){#
+			for(k in 1:num.facts){#
+				a<- a + 1#
+				points(fill2[z,k], a, pch=20, cex = 2)#
+				labs<- c(labs, vert.label[k])#
+				}#
+				}#
+		axis(2, 1:(6*num.facts), labs)#
+		count<- 0#
+		for(z in 1:6){#
+				seqs<- count:(count + num.facts - 1)#
+				axis(4, c(count , median(seqs),  count + num.facts-1), c('', base.lab[z], ''))#
+				count<- count + num.facts  #
+				}#
+}
+create.plot(var2, 1:6, c('Lib_Dem', 'Med_Dem', 'Mod_Dem', 'Mod_Rep', 'Med_Rep', 'Cons_Rep'), )
+create.plot<- function(var2, pos.values, vert.label, xlim=c(-0.4, 0.4), left = 6, right= 6){#
+	num.facts<- len(pos.values)#
+	fill<- matrix(0, nrow=6, ncol=num.facts)#
+	tt<- 1:nrow(treat.mat)#
+		av.effect<- function(subset){#
+	out<- mean(final.eff[subset])#
+	print(out)#
+	}#
+	for(z in 1:6){#
+		for(k in 1:num.facts){#
+				if(z ==1){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond1==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==2){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond2==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==3){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond3==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==4){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond4==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==5){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond5==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==6){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond6==1 & var2==pos.values[[k]]))#
+					}#
+				}#
+			}#
+		fill2<- fill[c(3, 1, 6, 5, 4, 2),]#
+	#	rank.fills<- apply(fill2, 2, rank.func)#
+		par(mar=c(2, left, 1, right))#
+		par(las=1)	#
+		par(cex.lab = 1.25)#
+		plot(c(0,1)~c(0,1), pch='', xlab='', ylab='', axes = F, ylim=c(1, 6*num.facts), xlim= xlim, frame.plot=F)	#
+		a<- 0#
+		seqs<- seq(xlim[1], xlim[2], by=0.025)#
+		for(aa in 1:len(seqs)){#
+			arrows(seqs[aa], -10, seqs[aa], 1e7, len=0, lty=2, col=gray(0.6))#
+			}#
+		seq2<- seq(1, 6*num.facts)	#
+		for(aa in 1:len(seq2)){#
+			arrows(-10, aa, 10, aa, len=0, col=gray(0.8))#
+			}#
+		arrows(0, -10, 0, 1e7, len=0, lwd=2)#
+		axis(1, seq(round(xlim[1], 2), round(xlim[2],2), by=0.1))#
+		axis(3, seq(round(xlim[1], 2), round(xlim[2],2), by=0.1))#
+		base.lab<-  c('Will\nRequest\nSupport', 'WillRequest\nMoney', 'Request\nSupport', 'Request\nMoney', 'Secured\nSupport', 'Secured\nMoney')#
+		labs<- c()#
+		a<- 0#
+		for(z in 1:6){#
+			for(k in 1:num.facts){#
+				a<- a + 1#
+				points(fill2[z,k], a, pch=20, cex = 2)#
+				labs<- c(labs, vert.label[k])#
+				}#
+				}#
+		axis(2, 1:(6*num.facts), labs)#
+		count<- 0#
+		for(z in 1:6){#
+				seqs<- count:(count + num.facts - 1)#
+				axis(4, c(count , median(seqs),  count + num.facts-1), c('', base.lab[z], ''))#
+				count<- count + num.facts  #
+				}#
+}#
+#
+treat.mat<- data.frame(treat.mat)#
+#
+var2<- rep(0, nrow(treat.mat))#
+var2[which(treat.mat$sen_ideals==-1.5)]<- 1#
+var2[which(treat.mat$sen_ideals==-1)]<- 2#
+var2[which(treat.mat$sen_ideals==0.07)]<- 3#
+var2[which(treat.mat$sen_ideals==0.27)]<- 4#
+var2[which(treat.mat$sen_ideals==1)]<- 5#
+var2[which(treat.mat$sen_ideals==1.5)]<- 6#
+create.plot(var2, 1:6, c('Lib_Dem', 'Med_Dem', 'Mod_Dem', 'Mod_Rep', 'Med_Rep', 'Cons_Rep'), )
+create.plot<- function(var2, pos.values, vert.label, xlim=c(-0.4, 0.4), left = 6, right= 6){#
+	num.facts<- len(pos.values)#
+	fill<- matrix(0, nrow=6, ncol=num.facts)#
+	tt<- 1:nrow(treat.mat)#
+		av.effect<- function(subset){#
+	out<- mean(final.eff[subset])#
+	print(out)#
+	}#
+	for(z in 1:6){#
+		for(k in 1:num.facts){#
+				if(z ==1){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond1==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==2){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond2==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==3){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond3==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==4){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond4==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==5){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond5==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==6){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond6==1 & var2==pos.values[[k]]))#
+					}#
+				}#
+			}#
+		fill2<- fill[c(3, 1, 6, 5, 4, 2),]#
+	#	rank.fills<- apply(fill2, 2, rank.func)#
+		par(mar=c(2, left, 1, right))#
+		par(las=1)	#
+		par(cex.lab = 1.25)#
+		plot(c(0,1)~c(0,1), pch='', xlab='', ylab='', axes = F, ylim=c(1, 6*num.facts), xlim= xlim, frame.plot=F)	#
+		a<- 0#
+		seqs<- seq(xlim[1], xlim[2], by=0.025)#
+		for(aa in 1:len(seqs)){#
+			arrows(seqs[aa], -10, seqs[aa], 1e7, len=0, lty=2, col=gray(0.6))#
+			}#
+		seq2<- seq(1, 6*num.facts)	#
+		for(aa in 1:len(seq2)){#
+			arrows(-10, aa, 10, aa, len=0, col=gray(0.8))#
+			}#
+		arrows(0, -10, 0, 1e7, len=0, lwd=2)#
+		axis(1, seq(round(xlim[1], 2), round(xlim[2],2), by=0.1))#
+		axis(3, seq(round(xlim[1], 2), round(xlim[2],2), by=0.1))#
+		base.lab<-  c('Will\nRequest\nSupport', 'WillRequest\nMoney', 'Request\nSupport', 'Request\nMoney', 'Secured\nSupport', 'Secured\nMoney')#
+		labs<- c()#
+		a<- 0#
+		for(z in 1:6){#
+			for(k in 1:num.facts){#
+				a<- a + 1#
+				points(fill2[z,k], a, pch=20, cex = 2)#
+				labs<- c(labs, vert.label[k])#
+				}#
+				}#
+		axis(2, 1:(6*num.facts), labs)#
+		count<- 1#
+		for(z in 1:6){#
+				seqs<- count:(count + num.facts - 1)#
+				axis(4, c(count , median(seqs),  count + num.facts-1), c('', base.lab[z], ''))#
+				count<- count + num.facts  #
+				}#
+}
+create.plot(var2, 1:6, c('Lib_Dem', 'Med_Dem', 'Mod_Dem', 'Mod_Rep', 'Med_Rep', 'Cons_Rep'), )
+create.plot<- function(var2, pos.values, vert.label, xlim=c(-0.4, 0.4), left = 6, right= 6){#
+	num.facts<- len(pos.values)#
+	fill<- matrix(0, nrow=6, ncol=num.facts)#
+	tt<- 1:nrow(treat.mat)#
+		av.effect<- function(subset){#
+	out<- mean(final.eff[subset])#
+	print(out)#
+	}#
+	for(z in 1:6){#
+		for(k in 1:num.facts){#
+				if(z ==1){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond1==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==2){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond2==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==3){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond3==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==4){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond4==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==5){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond5==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==6){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond6==1 & var2==pos.values[[k]]))#
+					}#
+				}#
+			}#
+		fill2<- fill[c(3, 1, 6, 5, 4, 2),]#
+	#	rank.fills<- apply(fill2, 2, rank.func)#
+		par(mar=c(4, left, 3, right))#
+		par(las=1)	#
+		par(cex.lab = 1.25)#
+		plot(c(0,1)~c(0,1), pch='', xlab='Treatment Effect', ylab='', axes = F, ylim=c(1, 6*num.facts), xlim= xlim, frame.plot=F)	#
+		a<- 0#
+		seqs<- seq(xlim[1], xlim[2], by=0.025)#
+		for(aa in 1:len(seqs)){#
+			arrows(seqs[aa], -10, seqs[aa], 1e7, len=0, lty=2, col=gray(0.6))#
+			}#
+		seq2<- seq(1, 6*num.facts)	#
+		for(aa in 1:len(seq2)){#
+			arrows(-10, aa, 10, aa, len=0, col=gray(0.8))#
+			}#
+		arrows(0, -10, 0, 1e7, len=0, lwd=2)#
+		axis(1, seq(round(xlim[1], 2), round(xlim[2],2), by=0.1))#
+		axis(3, seq(round(xlim[1], 2), round(xlim[2],2), by=0.1))#
+		base.lab<-  c('Will\nRequest\nSupport', 'WillRequest\nMoney', 'Request\nSupport', 'Request\nMoney', 'Secured\nSupport', 'Secured\nMoney')#
+		labs<- c()#
+		a<- 0#
+		for(z in 1:6){#
+			for(k in 1:num.facts){#
+				a<- a + 1#
+				points(fill2[z,k], a, pch=20, cex = 2)#
+				labs<- c(labs, vert.label[k])#
+				}#
+				}#
+		axis(2, 1:(6*num.facts), labs)#
+		count<- 1#
+		for(z in 1:6){#
+				seqs<- count:(count + num.facts - 1)#
+				axis(4, c(count , median(seqs),  count + num.facts-1), c('', base.lab[z], ''))#
+				count<- count + num.facts  #
+				}#
+}
+create.plot(var2, 1:6, c('Lib_Dem', 'Med_Dem', 'Mod_Dem', 'Mod_Rep', 'Med_Rep', 'Cons_Rep'), )
+var2<- ifelse(treat.mat$sen_dem==1, 1, 2)
+create.plot(var2, 1:6, c('Lib_Dem', 'Med_Dem', 'Mod_Dem', 'Mod_Rep', 'Med_Rep', 'Cons_Rep'), )
+create.plot(var2, 1:2, c('Lib_Dem', 'Med_Dem', 'Mod_Dem', 'Mod_Rep', 'Med_Rep', 'Cons_Rep'), )
+create.plot(var3, 1:2, c('Democrat', 'Republican'))
+var3<- ifelse(treat.mat$sen_dem==1, 1, 2)
+create.plot(var3, 1:2, c('Democrat', 'Republican'))
+create.plot(var3, 1:2, c('Democrat', 'Republican'))
+colnames(treat.mat)[1:20]
+var3<- rep(0, nrow(treat.mat))
+var3[which(treat.mat$strong_dem==1 & treat.mat$lib==1)]<- 1#
+var3[which(treat.mat$strong_dem==1 & treat.mat$mod==1)]<- 2#
+var3[which(treat.mat$strong_dem==1 & treat.mat$cons==1)]<- 3#
+#
+var3[which(treat.mat$dem==1 & treat.mat$strong_dem!= 1 &  treat.mat$lib==1)]<- 4#
+var3[which(treat.mat$dem==1& treat.mat$strong_dem!= 1  & treat.mat$mod==1)]<- 5#
+var3[which(treat.mat$dem==1& treat.mat$strong_dem!= 1  & treat.mat$cons==1)]<-6#
+#
+var3[which(treat.mat$ind==1 & treat.mat$lib==1)]<- 7#
+var3[which(treat.mat$ind==1 & treat.mat$mod==1)]<- 8#
+var3[which(treat.mat$ind==1 & treat.mat$cons==1)]<- 9#
+#
+var3[which(treat.mat$rep==1 & treat.mat$strong_rep!= 1 &  treat.mat$lib==1)]<- 10#
+var3[which(treat.mat$rep==1& treat.mat$strong_rep!= 1  & treat.mat$mod==1)]<- 11#
+var3[which(treat.mat$rep==1& treat.mat$strong_rep!= 1  & treat.mat$cons==1)]<-12#
+var3[which(treat.mat$strong_rep==1 & treat.mat$lib==1)]<- 13#
+var3[which(treat.mat$strong_rep==1 & treat.mat$mod==1)]<- 14#
+var3[which(treat.mat$strong_rep==1 & treat.mat$cons==1)]<- 15
+paste(c('StrongDem', 'Dem', 'Ind', 'Rep', 'StrongRep'), c('Lib', 'Mod', 'Cons'), sep='')
+new_lab
+part1<- c('StrongDem', 'Dem', 'Ind', 'Rep', 'StrongRep')#
+part2<- c('Lib', 'Mod', 'Cons')#
+new_lab<- c()#
+a<- 0#
+for(z in 1:len(part1)){#
+	for(k in 1:len(part2)){#
+		a<- a + 1#
+		new_lab[a]<- paste(part1[z], part2[k], sep='')#
+	}#
+	}
+new_lab
+create.plot(var3, 1:15, new_lab)
+dev.copy(device=pdf, file='~/dropbox/creditClaimingProject/het/Exp1IdeoHet.pdf', height=14, width=7)#
+dev.off()
+create.plot(var3, 1:15, new_lab)
+dev.copy(device=pdf, file='~/dropbox/creditClaimingProjects/het/Exp1IdeoHet.pdf', height=14, width=7)
+dev.off()
+create.plot2<- function(var2, pos.values, vert.label, xlim=c(-0.4, 0.4), left = 6, right= 6){#
+	num.facts<- len(pos.values)#
+	fill<- matrix(0, nrow=1, ncol=num.facts)#
+	tt<- 1:nrow(treat.mat)#
+		av.effect<- function(subset){#
+	out<- mean(final.eff[subset])#
+	print(out)#
+	}#
+	for(z in 1:1){#
+		for(k in 1:num.facts){#
+				if(z ==1){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond1==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==2){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond2==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==3){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond3==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==4){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond4==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==5){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond5==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==6){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond6==1 & var2==pos.values[[k]]))#
+					}#
+				}#
+			}#
+		#fill2<- fill[c(3, 1, 6, 5, 4, 2),]#
+	#	rank.fills<- apply(fill2, 2, rank.func)#
+		par(mar=c(4, left, 3, right))#
+		par(las=1)	#
+		par(cex.lab = 1.25)#
+		plot(c(0,1)~c(0,1), pch='', xlab='Treatment Effect', ylab='', axes = F, ylim=c(1, 6*num.facts), xlim= xlim, frame.plot=F)	#
+		a<- 0#
+		seqs<- seq(xlim[1], xlim[2], by=0.025)#
+		for(aa in 1:len(seqs)){#
+			arrows(seqs[aa], -10, seqs[aa], 1e7, len=0, lty=2, col=gray(0.6))#
+			}#
+		seq2<- seq(1, num.facts)	#
+		for(aa in 1:len(seq2)){#
+			arrows(-10, aa, 10, aa, len=0, col=gray(0.8))#
+			}#
+		arrows(0, -10, 0, 1e7, len=0, lwd=2)#
+		axis(1, seq(round(xlim[1], 2), round(xlim[2],2), by=0.1))#
+		axis(3, seq(round(xlim[1], 2), round(xlim[2],2), by=0.1))#
+		#base.lab<-  c('Will\nRequest\nSupport', 'WillRequest\nMoney', 'Request\nSupport', 'Request\nMoney', 'Secured\nSupport', 'Secured\nMoney')#
+		labs<- c()#
+		a<- 0#
+		for(z in 1:1){#
+			for(k in 1:num.facts){#
+				a<- a + 1#
+				points(fill2[z,k], a, pch=20, cex = 2)#
+				labs<- c(labs, vert.label[k])#
+				}#
+				}#
+		axis(2, 1:(num.facts), labs)#
+		#count<- 1#
+		#for(z in 1:6){#
+		#		seqs<- count:(count + num.facts - 1)#
+		#		axis(4, c(count , median(seqs),  count + num.facts-1), c('', base.lab[z], ''))#
+		#		count<- count + num.facts  #
+		#		}#
+}
+create.plot2(var3, 1:15, new_lab)
+create.plot2<- function(var2, pos.values, vert.label, xlim=c(-0.4, 0.4), left = 6, right= 6){#
+	num.facts<- len(pos.values)#
+	fill<- matrix(0, nrow=1, ncol=num.facts)#
+	tt<- 1:nrow(treat.mat)#
+		av.effect<- function(subset){#
+	out<- mean(final.eff[subset])#
+	print(out)#
+	}#
+	for(z in 1:1){#
+		for(k in 1:num.facts){#
+				if(z ==1){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond1==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==2){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond2==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==3){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond3==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==4){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond4==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==5){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond5==1 & var2==pos.values[[k]]))#
+					}#
+				if(z ==6){		#
+					fill[z, k]<- av.effect(which(treat.mat$treatCond6==1 & var2==pos.values[[k]]))#
+					}#
+				}#
+			}#
+		#fill2<- fill[c(3, 1, 6, 5, 4, 2),]#
+	#	rank.fills<- apply(fill2, 2, rank.func)#
+		fill2<- fill#
+		par(mar=c(4, left, 3, right))#
+		par(las=1)	#
+		par(cex.lab = 1.25)#
+		plot(c(0,1)~c(0,1), pch='', xlab='Treatment Effect', ylab='', axes = F, ylim=c(1, num.facts), xlim= xlim, frame.plot=F)	#
+		a<- 0#
+		seqs<- seq(xlim[1], xlim[2], by=0.025)#
+		for(aa in 1:len(seqs)){#
+			arrows(seqs[aa], -10, seqs[aa], 1e7, len=0, lty=2, col=gray(0.6))#
+			}#
+		seq2<- seq(1, num.facts)	#
+		for(aa in 1:len(seq2)){#
+			arrows(-10, aa, 10, aa, len=0, col=gray(0.8))#
+			}#
+		arrows(0, -10, 0, 1e7, len=0, lwd=2)#
+		axis(1, seq(round(xlim[1], 2), round(xlim[2],2), by=0.1))#
+		axis(3, seq(round(xlim[1], 2), round(xlim[2],2), by=0.1))#
+		#base.lab<-  c('Will\nRequest\nSupport', 'WillRequest\nMoney', 'Request\nSupport', 'Request\nMoney', 'Secured\nSupport', 'Secured\nMoney')#
+		labs<- c()#
+		a<- 0#
+		for(z in 1:1){#
+			for(k in 1:num.facts){#
+				a<- a + 1#
+				points(fill2[z,k], a, pch=20, cex = 2)#
+				labs<- c(labs, vert.label[k])#
+				}#
+				}#
+		axis(2, 1:(num.facts), labs)#
+		#count<- 1#
+		#for(z in 1:6){#
+		#		seqs<- count:(count + num.facts - 1)#
+		#		axis(4, c(count , median(seqs),  count + num.facts-1), c('', base.lab[z], ''))#
+		#		count<- count + num.facts  #
+		#		}#
+}
+create.plot2(var3, 1:15, new_lab)
+create.plot2(var3, 1:15, new_lab, left=7, right = 2)
+var4<- ifelse(treat.mat$cons==1 , 1, 0)
+create.plot2(var4, 1:15, new_lab, left=7, right = 2)
+create.plot2(var4, 1:2, new_lab, left=7, right = 2)
+var4<- ifelse(treat.mat$cons==1 , 1, 2)
+create.plot2(var4, 1:2, new_lab, left=7, right = 2)
+var4<- ifelse(treat.mat$lib==1, 1, ifelse(treat.mat$mod==1, 2, 3))
+create.plot2(var4, 1:2, c('Lib', 'Mod', 'Cons'), left=7, right = 2)
+create.plot2(var4, 1:3, c('Lib', 'Mod', 'Cons'), left=7, right = 2)
+create.plot(var4, 1:3, c('Lib', 'Mod', 'Cons'), left=7, right = 2)
+create.plot2(var4, 1:3, c('Lib', 'Mod', 'Cons'), left=7, right = 2)
+create.plot2(var3, 1:15, new_lab, left=7, right = 2)
+create.plot2(var4, 1:3, c('Lib', 'Mod', 'Cons'), left=7, right = 2, xlim=c(-0.2, 0.2))
+create.plot2(var3, 1:15, new_lab, left=7, right = 2, xlim=c(-0.2, 0.2))
+num.right<- len(pos.values_var1)
+var4<- rep(0, nrow(treat.mat))#
+#
+var4[which(treat.mat$dem==1 & treat.mat$lib==1)]<- 1#
+var4[which(treat.mat$dem==1 & treat.mat$mod==1)]<- 2#
+var4[which(treat.mat$dem==1 & treat.mat$cons==1)]<- 3#
+var4[which(treat.mat$ind==1 & treat.mat$lib==1)]<- 4#
+var4[which(treat.mat$ind==1 & treat.mat$mod==1)]<- 5#
+var4[which(treat.mat$ind==1 & treat.mat$cons==1)]<- 6#
+var4[which(treat.mat$strong_rep==1 & treat.mat$lib==1)]<- 7#
+var4[which(treat.mat$strong_rep==1 & treat.mat$mod==1)]<- 8#
+var4[which(treat.mat$strong_rep==1 & treat.mat$cons==1)]<- 9
+part1a<- 	c('Dem', 'Ind', 'Rep')#
+new_laba<- c()#
+a<- 0#
+for(z in 1:len(part1a)){#
+	for(k in 1:len(part2)){#
+		a<- a + 1#
+		new_laba[a]<- paste(part1a[z], part2[k], sep='')#
+	}#
+	}
+new_laba
+create.plot2(var4, 1:9, new_laba, left= 7, right = 2, xlim=c(-0.2, 0.2))
+create.plot3<- function(var1, pos.values_var1, labels_1, var2, pos.values, vert.label, xlim=c(-0.4, 0.4), left = 6, right= 6){#
+	num.facts<- len(pos.values)#
+	num.right<- len(post.values_var1)#
+	fill<- matrix(0, nrow=num.right, ncol=num.facts)#
+	tt<- 1:nrow(treat.mat)#
+		av.effect<- function(subset){#
+	out<- mean(final.eff[subset])#
+	print(out)#
+	}#
+	for(z in 1:num.right){#
+		for(k in 1:num.facts){#
+					fill[z, k]<- av.effect(which(var1==pos.values_var1[z] & var2==pos.values[[k]]))#
+				# if(z ==2){		#
+					# fill[z, k]<- av.effect(which(treat.mat$treatCond2==1 & var2==pos.values[[k]]))#
+					# }#
+				# if(z ==3){		#
+					# fill[z, k]<- av.effect(which(treat.mat$treatCond3==1 & var2==pos.values[[k]]))#
+					# }#
+				# if(z ==4){		#
+					# fill[z, k]<- av.effect(which(treat.mat$treatCond4==1 & var2==pos.values[[k]]))#
+					# }#
+				# if(z ==5){		#
+					# fill[z, k]<- av.effect(which(treat.mat$treatCond5==1 & var2==pos.values[[k]]))#
+					# }#
+				# if(z ==6){		#
+					# fill[z, k]<- av.effect(which(treat.mat$treatCond6==1 & var2==pos.values[[k]]))#
+					# }#
+				}#
+			}#
+		#fill2<- fill[c(3, 1, 6, 5, 4, 2),]#
+	#	rank.fills<- apply(fill2, 2, rank.func)#
+		fill2<- fill#
+		par(mar=c(4, left, 3, right))#
+		par(las=1)	#
+		par(cex.lab = 1.25)#
+		plot(c(0,1)~c(0,1), pch='', xlab='Treatment Effect', ylab='', axes = F, ylim=c(1, num.right*num.facts), xlim= xlim, frame.plot=F)	#
+		a<- 0#
+		seqs<- seq(xlim[1], xlim[2], by=0.025)#
+		for(aa in 1:len(seqs)){#
+			arrows(seqs[aa], -10, seqs[aa], 1e7, len=0, lty=2, col=gray(0.6))#
+			}#
+		seq2<- seq(1, num.right*num.facts)	#
+		for(aa in 1:len(seq2)){#
+			arrows(-10, aa, 10, aa, len=0, col=gray(0.8))#
+			}#
+		arrows(0, -10, 0, 1e7, len=0, lwd=2)#
+		axis(1, seq(round(xlim[1], 2), round(xlim[2],2), by=0.1))#
+		axis(3, seq(round(xlim[1], 2), round(xlim[2],2), by=0.1))#
+		base.lab<-  labels_1#
+		labs<- c()#
+		a<- 0#
+		for(z in 1:num.right){#
+			for(k in 1:num.facts){#
+				a<- a + 1#
+				points(fill2[z,k], a, pch=20, cex = 2)#
+				labs<- c(labs, vert.label[k])#
+				}#
+				}#
+		axis(2, 1:(num.facts), labs)#
+		count<- 1#
+		for(z in 1:num.right){#
+				seqs<- count:(count + num.facts - 1)#
+				axis(4, c(count , median(seqs),  count + num.facts-1), c('', base.lab[z], ''))#
+				count<- count + num.facts  #
+				}#
+}
+colnames(treat.mat)
+var1a<- ifelse(treat.mat$dem==1, 1, ifelse(treat.mat$ind==1 | (treat.mat$dem==0 & treat.mat$rep==0), 2, 3))
+var2a<- ifelse(treat.mat$lib==1, 1, ifelse(treat.mat$mod==1, 2, 3))
+create.plot3(var1a, 1:3, c('Dem', 'Ind', 'Rep'), var2, 1:3, c('Lib', 'Mod', 'Cons'))
+create.plot3<- function(var1, pos.values_var1, labels_1, var2, pos.values, vert.label, xlim=c(-0.4, 0.4), left = 6, right= 6){#
+	num.facts<- len(pos.values)#
+	num.right<- len(pos.values_var1)#
+	fill<- matrix(0, nrow=num.right, ncol=num.facts)#
+	tt<- 1:nrow(treat.mat)#
+		av.effect<- function(subset){#
+	out<- mean(final.eff[subset])#
+	print(out)#
+	}#
+	for(z in 1:num.right){#
+		for(k in 1:num.facts){#
+					fill[z, k]<- av.effect(which(var1==pos.values_var1[z] & var2==pos.values[[k]]))#
+				# if(z ==2){		#
+					# fill[z, k]<- av.effect(which(treat.mat$treatCond2==1 & var2==pos.values[[k]]))#
+					# }#
+				# if(z ==3){		#
+					# fill[z, k]<- av.effect(which(treat.mat$treatCond3==1 & var2==pos.values[[k]]))#
+					# }#
+				# if(z ==4){		#
+					# fill[z, k]<- av.effect(which(treat.mat$treatCond4==1 & var2==pos.values[[k]]))#
+					# }#
+				# if(z ==5){		#
+					# fill[z, k]<- av.effect(which(treat.mat$treatCond5==1 & var2==pos.values[[k]]))#
+					# }#
+				# if(z ==6){		#
+					# fill[z, k]<- av.effect(which(treat.mat$treatCond6==1 & var2==pos.values[[k]]))#
+					# }#
+				}#
+			}#
+		#fill2<- fill[c(3, 1, 6, 5, 4, 2),]#
+	#	rank.fills<- apply(fill2, 2, rank.func)#
+		fill2<- fill#
+		par(mar=c(4, left, 3, right))#
+		par(las=1)	#
+		par(cex.lab = 1.25)#
+		plot(c(0,1)~c(0,1), pch='', xlab='Treatment Effect', ylab='', axes = F, ylim=c(1, num.right*num.facts), xlim= xlim, frame.plot=F)	#
+		a<- 0#
+		seqs<- seq(xlim[1], xlim[2], by=0.025)#
+		for(aa in 1:len(seqs)){#
+			arrows(seqs[aa], -10, seqs[aa], 1e7, len=0, lty=2, col=gray(0.6))#
+			}#
+		seq2<- seq(1, num.right*num.facts)	#
+		for(aa in 1:len(seq2)){#
+			arrows(-10, aa, 10, aa, len=0, col=gray(0.8))#
+			}#
+		arrows(0, -10, 0, 1e7, len=0, lwd=2)#
+		axis(1, seq(round(xlim[1], 2), round(xlim[2],2), by=0.1))#
+		axis(3, seq(round(xlim[1], 2), round(xlim[2],2), by=0.1))#
+		base.lab<-  labels_1#
+		labs<- c()#
+		a<- 0#
+		for(z in 1:num.right){#
+			for(k in 1:num.facts){#
+				a<- a + 1#
+				points(fill2[z,k], a, pch=20, cex = 2)#
+				labs<- c(labs, vert.label[k])#
+				}#
+				}#
+		axis(2, 1:(num.facts), labs)#
+		count<- 1#
+		for(z in 1:num.right){#
+				seqs<- count:(count + num.facts - 1)#
+				axis(4, c(count , median(seqs),  count + num.facts-1), c('', base.lab[z], ''))#
+				count<- count + num.facts  #
+				}#
+}
+create.plot3(var1a, 1:3, c('Dem', 'Ind', 'Rep'), var2, 1:3, c('Lib', 'Mod', 'Cons'))
+var1a
+var2a
+create.plot3(var1a, 1:3, c('Dem', 'Ind', 'Rep'), var2, 1:3, c('Lib', 'Mod', 'Cons'))
+which(var2a==3 & var1a==1)
+create.plot3<- function(var1, pos.values_var1, labels_1, var2, pos.values, vert.label, xlim=c(-0.4, 0.4), left = 6, right= 6){#
+	num.facts<- len(pos.values)#
+	num.right<- len(pos.values_var1)#
+	fill<- matrix(0, nrow=num.right, ncol=num.facts)#
+	tt<- 1:nrow(treat.mat)#
+		av.effect<- function(subset){#
+	out<- mean(final.eff[subset])#
+	print(out)#
+	}#
+	for(z in 1:num.right){#
+		for(k in 1:num.facts){#
+					fill[z, k]<- av.effect(which(var1==pos.values_var1[z] & var2==pos.values[k]))#
+				# if(z ==2){		#
+					# fill[z, k]<- av.effect(which(treat.mat$treatCond2==1 & var2==pos.values[[k]]))#
+					# }#
+				# if(z ==3){		#
+					# fill[z, k]<- av.effect(which(treat.mat$treatCond3==1 & var2==pos.values[[k]]))#
+					# }#
+				# if(z ==4){		#
+					# fill[z, k]<- av.effect(which(treat.mat$treatCond4==1 & var2==pos.values[[k]]))#
+					# }#
+				# if(z ==5){		#
+					# fill[z, k]<- av.effect(which(treat.mat$treatCond5==1 & var2==pos.values[[k]]))#
+					# }#
+				# if(z ==6){		#
+					# fill[z, k]<- av.effect(which(treat.mat$treatCond6==1 & var2==pos.values[[k]]))#
+					# }#
+				}#
+			}#
+		#fill2<- fill[c(3, 1, 6, 5, 4, 2),]#
+	#	rank.fills<- apply(fill2, 2, rank.func)#
+		fill2<- fill#
+		par(mar=c(4, left, 3, right))#
+		par(las=1)	#
+		par(cex.lab = 1.25)#
+		plot(c(0,1)~c(0,1), pch='', xlab='Treatment Effect', ylab='', axes = F, ylim=c(1, num.right*num.facts), xlim= xlim, frame.plot=F)	#
+		a<- 0#
+		seqs<- seq(xlim[1], xlim[2], by=0.025)#
+		for(aa in 1:len(seqs)){#
+			arrows(seqs[aa], -10, seqs[aa], 1e7, len=0, lty=2, col=gray(0.6))#
+			}#
+		seq2<- seq(1, num.right*num.facts)	#
+		for(aa in 1:len(seq2)){#
+			arrows(-10, aa, 10, aa, len=0, col=gray(0.8))#
+			}#
+		arrows(0, -10, 0, 1e7, len=0, lwd=2)#
+		axis(1, seq(round(xlim[1], 2), round(xlim[2],2), by=0.1))#
+		axis(3, seq(round(xlim[1], 2), round(xlim[2],2), by=0.1))#
+		base.lab<-  labels_1#
+		labs<- c()#
+		a<- 0#
+		for(z in 1:num.right){#
+			for(k in 1:num.facts){#
+				a<- a + 1#
+				points(fill2[z,k], a, pch=20, cex = 2)#
+				labs<- c(labs, vert.label[k])#
+				}#
+				}#
+		axis(2, 1:(num.facts), labs)#
+		count<- 1#
+		for(z in 1:num.right){#
+				seqs<- count:(count + num.facts - 1)#
+				axis(4, c(count , median(seqs),  count + num.facts-1), c('', base.lab[z], ''))#
+				count<- count + num.facts  #
+				}#
+}
+create.plot3(var1a, 1:3, c('Dem', 'Ind', 'Rep'), var2a, 1:3, c('Lib', 'Mod', 'Cons'))
+create.plot3<- function(var1, pos.values_var1, labels_1, var2, pos.values, vert.label, xlim=c(-0.4, 0.4), left = 6, right= 6){#
+	num.facts<- len(pos.values)#
+	num.right<- len(pos.values_var1)#
+	fill<- matrix(0, nrow=num.right, ncol=num.facts)#
+	tt<- 1:nrow(treat.mat)#
+		av.effect<- function(subset){#
+	out<- mean(final.eff[subset])#
+	print(out)#
+	}#
+	for(z in 1:num.right){#
+		for(k in 1:num.facts){#
+					fill[z, k]<- av.effect(which(var1==pos.values_var1[z] & var2==pos.values[k]))#
+				# if(z ==2){		#
+					# fill[z, k]<- av.effect(which(treat.mat$treatCond2==1 & var2==pos.values[[k]]))#
+					# }#
+				# if(z ==3){		#
+					# fill[z, k]<- av.effect(which(treat.mat$treatCond3==1 & var2==pos.values[[k]]))#
+					# }#
+				# if(z ==4){		#
+					# fill[z, k]<- av.effect(which(treat.mat$treatCond4==1 & var2==pos.values[[k]]))#
+					# }#
+				# if(z ==5){		#
+					# fill[z, k]<- av.effect(which(treat.mat$treatCond5==1 & var2==pos.values[[k]]))#
+					# }#
+				# if(z ==6){		#
+					# fill[z, k]<- av.effect(which(treat.mat$treatCond6==1 & var2==pos.values[[k]]))#
+					# }#
+				}#
+			}#
+		#fill2<- fill[c(3, 1, 6, 5, 4, 2),]#
+	#	rank.fills<- apply(fill2, 2, rank.func)#
+		fill2<- fill#
+		par(mar=c(4, left, 3, right))#
+		par(las=1)	#
+		par(cex.lab = 1.25)#
+		plot(c(0,1)~c(0,1), pch='', xlab='Treatment Effect', ylab='', axes = F, ylim=c(1, num.right*num.facts), xlim= xlim, frame.plot=F)	#
+		a<- 0#
+		seqs<- seq(xlim[1], xlim[2], by=0.025)#
+		for(aa in 1:len(seqs)){#
+			arrows(seqs[aa], -10, seqs[aa], 1e7, len=0, lty=2, col=gray(0.6))#
+			}#
+		seq2<- seq(1, num.right*num.facts)	#
+		for(aa in 1:len(seq2)){#
+			arrows(-10, aa, 10, aa, len=0, col=gray(0.8))#
+			}#
+		arrows(0, -10, 0, 1e7, len=0, lwd=2)#
+		axis(1, seq(round(xlim[1], 2), round(xlim[2],2), by=0.1))#
+		axis(3, seq(round(xlim[1], 2), round(xlim[2],2), by=0.1))#
+		base.lab<-  labels_1#
+		labs<- c()#
+		a<- 0#
+		for(z in 1:num.right){#
+			for(k in 1:num.facts){#
+				a<- a + 1#
+				points(fill2[z,k], a, pch=20, cex = 2)#
+				labs<- c(labs, vert.label[k])#
+				}#
+				}#
+		axis(2, 1:(num.right*num.facts), labs)#
+		count<- 1#
+		for(z in 1:num.right){#
+				seqs<- count:(count + num.facts - 1)#
+				axis(4, c(count , median(seqs),  count + num.facts-1), c('', base.lab[z], ''))#
+				count<- count + num.facts  #
+				}#
+}
+create.plot3(var1a, 1:3, c('Dem', 'Ind', 'Rep'), var2a, 1:3, c('Lib', 'Mod', 'Cons'))
+create.plot2(var4, 1:3, c('Lib', 'Mod', 'Cons'), left=7, right = 2, xlim=c(-0.2, 0.2))
+create.plot2(var4, 1:9, new_laba, left= 7, right = 2, xlim=c(-0.2, 0.2))
+var1a<- ifelse(treat.mat$dem==1, 1, ifelse(treat.mat$ind==1 , 2, 3))
+var2a<- ifelse(treat.mat$lib==1, 1, ifelse(treat.mat$mod==1, 2, 3))
+create.plot3(var1a, 1:3, c('Dem', 'Ind', 'Rep'), var2a, 1:3, c('Lib', 'Mod', 'Cons'))
+var1<- var1a
+var2<- var2a
+pos.values_1<- 1:3
+pos.values<- 1:3
+labels_1<- c('Dem', 'Ind', 'Rep')
+vert.label<- c('Lib', 'Mod', 'Ind')
+num.facts<- len(pos.values)#
+	num.right<- len(pos.values_var1)#
+	fill<- matrix(0, nrow=num.right, ncol=num.facts)#
+	tt<- 1:nrow(treat.mat)#
+		av.effect<- function(subset){#
+	out<- mean(final.eff[subset])#
+	print(out)#
+	}
+pos.values_var1<- 1:3
+num.facts<- len(pos.values)#
+	num.right<- len(pos.values_var1)#
+	fill<- matrix(0, nrow=num.right, ncol=num.facts)#
+	tt<- 1:nrow(treat.mat)#
+		av.effect<- function(subset){#
+	out<- mean(final.eff[subset])#
+	print(out)#
+	}
+num.facts
+num.right
+for(z in 1:num.right){#
+		for(k in 1:num.facts){#
+					fill[z, k]<- av.effect(which(var1==pos.values_var1[z] & var2==pos.values[k]))#
+				# if(z ==2){		#
+					# fill[z, k]<- av.effect(which(treat.mat$treatCond2==1 & var2==pos.values[[k]]))#
+					# }#
+				# if(z ==3){		#
+					# fill[z, k]<- av.effect(which(treat.mat$treatCond3==1 & var2==pos.values[[k]]))#
+					# }#
+				# if(z ==4){		#
+					# fill[z, k]<- av.effect(which(treat.mat$treatCond4==1 & var2==pos.values[[k]]))#
+					# }#
+				# if(z ==5){		#
+					# fill[z, k]<- av.effect(which(treat.mat$treatCond5==1 & var2==pos.values[[k]]))#
+					# }#
+				# if(z ==6){		#
+					# fill[z, k]<- av.effect(which(treat.mat$treatCond6==1 & var2==pos.values[[k]]))#
+					# }#
+				}#
+			}
+av.effect(which(var1==pos.values_var1[z] & var2==pos.values[k]))
+tt<- av.effect(which(var1==pos.values_var1[z] & var2==pos.values[k]))
+av.effect(which(treat.mat$dem==1 & treat.mat$lib==1))
+z<- 1
+k<- 1
+av.effect(which(treat.mat$dem==1 & treat.mat$lib==1))
+av.effect(which(treat.mat$dem==1 & treat.mat$cons==1))
+create.plot2(var3, 1:15, new_lab, left=7, right = 2, xlim=c(-0.2, 0.2))
+av.effect(which(treat.mat$strong_dem==1 & treat.mat$cons==1))
+av.effect(which(treat.mat$strong_rep==1 & treat.mat$cons==1))
+av.effect(which(treat.mat$strong_rep==1 & treat.mat$cons==1 & treat.mat$rep!=1))
+av.effect(which(treat.mat$strong_rep==1 & treat.mat$cons==1))
+av.effect(which(treat.mat$rep==1 & treat.mat$strong_rep!=1 & treat.mat$cons==1))
+create.plot3(var1a, 1:3, c('Dem', 'Ind', 'Rep'), var2a, 1:3, c('Lib', 'Mod', 'Cons'))
+var4a<- ifelse(treat.mat$sen_dem==1, 1, 2)
+create.plot3(var2a, 1:3, c('Lib', 'Mod', 'Cons'), var4a, 1:2, c('Dem', 'Rep'))
+create.plot3(var2a, 1:3, c('Lib', 'Mod', 'Cons'), var4a, 1:2, c('Dem', 'Rep'), xlim=c(-0.2, 0.2))
+create.plot3(var2a, 1:3, c('Lib', 'Mod', 'Cons'), var2, 1:6, c('Lib_Dem', 'Med_Dem', 'Mod_Dem', 'Mod_Rep', 'Med_Rep', 'Cons_Rep'))
+var2
+var2<- rep(0, nrow(treat.mat))#
+var2[which(treat.mat$sen_ideals==-1.5)]<- 1#
+var2[which(treat.mat$sen_ideals==-1)]<- 2#
+var2[which(treat.mat$sen_ideals==0.07)]<- 3#
+var2[which(treat.mat$sen_ideals==0.27)]<- 4#
+var2[which(treat.mat$sen_ideals==1)]<- 5#
+var2[which(treat.mat$sen_ideals==1.5)]<- 6
+create.plot3(var2a, 1:3, c('Lib', 'Mod', 'Cons'), var2, 1:6, c('Lib_Dem', 'Med_Dem', 'Mod_Dem', 'Mod_Rep', 'Med_Rep', 'Cons_Rep'))
+create.plot3(var2a, 1:3, c('Lib', 'Mod', 'Cons'), var2, 1:6, c('Lib_Dem', 'Med_Dem', 'Mod_Dem', 'Mod_Rep', 'Med_Rep', 'Cons_Rep'), xlim=c(-0.1, 0.1))
+create.plot3(var1a, 1:3, c('Dem', 'Ind', 'Rep'), var2, 1:6, c('Lib_Dem', 'Med_Dem', 'Mod_Dem', 'Mod_Rep', 'Med_Rep', 'Cons_Rep'), xlim=c(-0.1, 0.1))
+create.plot3<- function(var1, pos.values_var1, labels_1, var2, pos.values, vert.label, xlim=c(-0.4, 0.4), left = 6, right= 6){#
+	num.facts<- len(pos.values)#
+	num.right<- len(pos.values_var1)#
+	fill<- matrix(0, nrow=num.right, ncol=num.facts)#
+	tt<- 1:nrow(treat.mat)#
+		av.effect<- function(subset){#
+	out<- mean(final.eff[subset])#
+	print(out)#
+	}#
+	for(z in 1:num.right){#
+		for(k in 1:num.facts){#
+					fill[z, k]<- av.effect(which(var1==pos.values_var1[z] & var2==pos.values[k]))#
+				# if(z ==2){		#
+					# fill[z, k]<- av.effect(which(treat.mat$treatCond2==1 & var2==pos.values[[k]]))#
+					# }#
+				# if(z ==3){		#
+					# fill[z, k]<- av.effect(which(treat.mat$treatCond3==1 & var2==pos.values[[k]]))#
+					# }#
+				# if(z ==4){		#
+					# fill[z, k]<- av.effect(which(treat.mat$treatCond4==1 & var2==pos.values[[k]]))#
+					# }#
+				# if(z ==5){		#
+					# fill[z, k]<- av.effect(which(treat.mat$treatCond5==1 & var2==pos.values[[k]]))#
+					# }#
+				# if(z ==6){		#
+					# fill[z, k]<- av.effect(which(treat.mat$treatCond6==1 & var2==pos.values[[k]]))#
+					# }#
+				}#
+			}#
+		#fill2<- fill[c(3, 1, 6, 5, 4, 2),]#
+	#	rank.fills<- apply(fill2, 2, rank.func)#
+		fill2<- fill#
+		par(mar=c(4, left, 3, right))#
+		par(las=1)	#
+		par(cex.lab = 1.25)#
+		plot(c(0,1)~c(0,1), pch='', xlab='Treatment Effect', ylab='', axes = F, ylim=c(1, num.right*num.facts), xlim= xlim, frame.plot=F)	#
+		a<- 0#
+		seqs<- seq(xlim[1], xlim[2], by=0.025)#
+		for(aa in 1:len(seqs)){#
+			arrows(seqs[aa], -10, seqs[aa], 1e7, len=0, lty=2, col=gray(0.6))#
+			}#
+		seq2<- seq(1, num.right*num.facts)	#
+		for(aa in 1:len(seq2)){#
+			arrows(-10, aa, 10, aa, len=0, col=gray(0.8))#
+			}#
+		arrows(0, -10, 0, 1e7, len=0, lwd=2)#
+		axis(1, seq(round(xlim[1], 2), round(xlim[2],2), by=0.05))#
+		axis(3, seq(round(xlim[1], 2), round(xlim[2],2), by=0.05))#
+		base.lab<-  labels_1#
+		labs<- c()#
+		a<- 0#
+		for(z in 1:num.right){#
+			for(k in 1:num.facts){#
+				a<- a + 1#
+				points(fill2[z,k], a, pch=20, cex = 2)#
+				labs<- c(labs, vert.label[k])#
+				}#
+				}#
+		axis(2, 1:(num.right*num.facts), labs)#
+		count<- 1#
+		for(z in 1:num.right){#
+				seqs<- count:(count + num.facts - 1)#
+				axis(4, c(count , median(seqs),  count + num.facts-1), c('', base.lab[z], ''))#
+				count<- count + num.facts  #
+				}#
+}
+create.plot3(var1a, 1:3, c('Dem', 'Ind', 'Rep'), var2, 1:6, c('Lib_Dem', 'Med_Dem', 'Mod_Dem', 'Mod_Rep', 'Med_Rep', 'Cons_Rep'), xlim=c(-0.1, 0.1))
+create.plot3(var4, 1:9, new_laba, var2, 1:6, c('Lib_Dem', 'Med_Dem', 'Mod_Dem', 'Mod_Rep', 'Med_Rep', 'Cons_Rep'), xlim=c(-0.1, 0.1))
+create.plot3(var1a, 1:3, c('Dem', 'Ind', 'Rep'), var2, 1:6, c('Lib_Dem', 'Med_Dem', 'Mod_Dem', 'Mod_Rep', 'Med_Rep', 'Cons_Rep'), xlim=c(-0.1, 0.1))
+create.plot3(var4, 1:9, new_laba, var2, 1:6, c('Lib_Dem', 'Med_Dem', 'Mod_Dem', 'Mod_Rep', 'Med_Rep', 'Cons_Rep'), xlim=c(-0.1, 0.1))
+create.plot3(var1a, 1:3, c('Dem', 'Ind', 'Rep'), var2, 1:6, c('Lib_Dem', 'Med_Dem', 'Mod_Dem', 'Mod_Rep', 'Med_Rep', 'Cons_Rep'), xlim=c(-0.1, 0.1))
+dev.copy(device=pdf, file='~/dropbox/creditClaimingProjects/het/PartisanIdealHet.pdf', height=12, width=7)
+dev.off()
+create.plot3(var4, 1:9, new_laba, var2, 1:6, c('Lib_Dem', 'Med_Dem', 'Mod_Dem', 'Mod_Rep', 'Med_Rep', 'Cons_Rep'), xlim=c(-0.1, 0.1))#
+dev.copy(device=pdf, file='~/dropbox/creditClaimingProjects/het/PartisanIdealHetLarge.pdf', height=12, width=7)#
+dev.off()
+create.plot3(var3, 1:15, new_lab, var2, 1:6, c('Lib_Dem', 'Med_Dem', 'Mod_Dem', 'Mod_Rep', 'Med_Rep', 'Cons_Rep'), xlim=c(-0.1, 0.1))
+create.plot3(var3, 1:15, new_lab, var2, 1:6, c('Lib_Dem', 'Med_Dem', 'Mod_Dem', 'Mod_Rep', 'Med_Rep', 'Cons_Rep'), xlim=c(-0.2, 0.2))
+colnames(treat.mat)[1:15]
+colnames(treat.mat)[1:25]
+var5<- ifelse(treat.mat$age_1==1, 1, ifelse(treat.mat$age_2==1, 2, ifelse(treat.mat$age_3==1, 3, 4)))
+var6<- ifelse(treat.mat$low_edu==1, 1, ifelse(treat.mat$med_edu==1, 2, 3))
+crate.plot3(var5, 1:4, c('Young', 'Young_Old', 'Old_Young', 'Old'), var6, 1:3, c('Low', 'Med', 'High'))
+create.plot3(var5, 1:4, c('Young', 'Young_Old', 'Old_Young', 'Old'), var6, 1:3, c('Low', 'Med', 'High'))
+create.plot3(var4, 1:9, new_laba, var2, 1:6, c('Lib_Dem', 'Med_Dem', 'Mod_Dem', 'Mod_Rep', 'Med_Rep', 'Cons_Rep'), xlim=c(-0.1, 0.1))
+treat.mat[order(final.eff, decreasing=F)[1:10],]
+treat.mat[order(final.eff, decreasing=F)[1:10],]
+treat.mat[order(final.eff, decreasing=T)[1:10],]
+treat.mat[order(final.eff, decreasing=T)[1:10],1:20]
+treat.mat[order(final.eff, decreasing=F)[1:10],1:20]
+var7<- ifelse(treat.mat$sen_dem==1, 1, 2)
+create.plot3(var5, 1:4, c('Young', 'Young_Old', 'Old_Young', 'Old'), var6, 1:3, c('Low', 'Med', 'High'))
+var8<- ifelse(treat.mat$low_inc==1, 1,ifelse(treat.mat$med_inc==1, 2, 3))
+create.plot(var8, 1:3, c('LowInc', 'MedInc', 'HighInc'), var6, 1:3, c('Low', 'Med', 'High'))
+create.plot3(var8, 1:3, c('LowInc', 'MedInc', 'HighInc'), var6, 1:3, c('Low', 'Med', 'High'))
+create.plot3(var8, 1:3, c('LowInc', 'MedInc', 'HighInc'), var7, 1:2, c('Dem', 'Rep'))
+colnames(treat.mat)
+setwd('/Users/justingrimmer/dropbox/CongressPressExpand/McCain')
+file.show('20Sep2007McCain76.txt')
+q()

@@ -1,0 +1,76 @@
+DEFENSE FUNDING BILL PASSES APPROPRIATIONS SUBCOMMITTEE
+  U.S. Senator Tim Johnson (D-SD) today announced funding levels he secured in the Defense spending bill for South Dakota in 2008. A member of the full Senate Appropriations Committee, Johnson announced the legislation was approved by the Defense Appropriations Subcommittee and is expected to pass the full Appropriations Committee on Wednesday. 
+  Funding for South Dakota related projects in the bill totals $47.2 million, including $10 million for projects associated with the South Dakota School of Mines and Technology and $9.6 million for projects associated with South Dakota State University, as well as $10 million to upgrade and modernize the B-1B fleet.
+  "I am pleased to be back in the Senate and working swiftly with my colleagues on this important spending bill this week. Funding I secured for programs important to South Dakota are vital to our national defense and technology advancements to keep our country safe," said Johnson. "It is my hope that the Senate will work quickly to pass this important legislation." 
+  FUNDS JOHNSON SECURED IN THE BILL INCLUDE:
+   South Dakota School of Mines and Technology
+   Future Affordable Multi-Utility (FAMU) Materials for the Army Future Combat Systems
+  Received: $8,000,000
+   South Dakota School of Mines and Technology, Florida A&M University, and Iowa State University are working with the Army to develop strong and lightweight vehicles made with multi-utility materials. With this request, SDSM&T will establish and staff a nationally competitive polymer and composites processing and prototyping laboratory in South Dakota, now known as the Polymer and Composites Engineering (PACE) Laboratory. 
+  Control System for Laser Powder Deposition 
+  Received: $400,000
+   South Dakota School of Mines and Technology and RPM & Associates are partnering to develop a control system for laser powder deposition (LPD), which is a relatively new technology currently being qualified for use in the manufacturing industry. 
+  Improvised Explosive Device (IED) Simulation in Different Soils 
+  Received: $400,000
+   South Dakota School of Mines and Technology and RESPEC are partnering to develop a numerical modeling strategy that can serve as a starting point for the simulation of shallow buried explosive (SBE) blasts in loose, fully saturated, coarse-grained soils 
+  Transparent Nanocomposite Armor 
+  Received: $300,000 
+   South Dakota School of Mines and Technology and the Army Research Laboratory (ARL) are working together to develop new transparent armor for the Army's Future Combat Systems. 
+  Small Unmanned Aerial Vehicles (UAVs) and Sensors
+  Received: $500,000
+   South Dakota School of Mines and Technology will develop small UAVs and associated sensor systems in order to provide a platform for battlefield reconnaissance and flight control systems to support Army field operations. 
+  Shielding Rocket Payloads
+  Received: $400,000
+   South Dakota School of Mines and Technology and Montana State University are working to reduce the sound pressure levels within space vehicles to avoid damage to delicate payloads during launch. 
+  SOUTH DAKOTA STATE UNIVERSITY FUNDING
+   Accelerated Materials Development and Characterization for Army Cannon Systems
+  Received: $2,300,000
+   The Army Benet Weapons Lab is currently developing concepts for the next generation of lightweight cannon system for the Future Combat System (FCS). South Dakota State University will partner with Benet Weapons Lab to develop a fatigue testing system to test the dynamic load of components and predict the life and the reliability of cannon system parts. 
+  Fatigue Odometer for Vehicle Components and Gun Barrels Project
+  Received: $3,300,000
+   South Dakota Science and Technology Corporation, Augusta Systems, Inc., South Dakota State University, and Prairie Gold Venture Partners is working with the U.S. Army Benet Laboratories (ABL), to develop innovative on-board sensor systems, and associated electronics and software, to provide more accurate and timely information on the wear-and-tear to military vehicle and weapon systems. 
+  Other Funding Johnson Secured for South Dakota:
+  Advanced Electronics Rosebud Integration Center (AERIC)
+  Received: $4,000,000
+   The Rosebud Sioux Tribe and Radiance Technologies, Inc., with program coordination and oversight by the U.S. Army's Space and Missile Defense Technical Center's (SMDTC) Defense Advanced Research Projects Agency (DARPA) office, continues to research, develop, test, and demonstrate advanced electronics integration and fabrication technology on the Rosebud Sioux Tribe reservation in South Dakota. 
+   The primary focus of this program is to advance state-of-the-art Army defense system electronics by reducing the size, weight, and cost of electronic circuit cards, components, wire harnesses, and electronic cabling. Special emphasis will be given to reduce hazardous substances materials and to employ lead-free components in micro-electronic products. 
+  Alternative Power Technology (APT) for Missile Defense
+  Received: $4,000,000
+   South Dakota State University, with leadership from the Army's Space and Missile Defense Command's DARPA Office, and support from Radiance Technologies, Inc., is developing, prototyping, demonstrating, and validating alternative power technology (APT). 
+  Next Generation Lightweight Drive System for Army Weapons Systems
+  Received: $2,000,000
+   Dakota Power Incorporated (DPI) has developed technologies for significant reduction in the size and weight of electric drive systems to power Army weapons systems. 
+  Exploding Foil Initiators with Nanomaterial-Based Circuits 
+  Receivied: $3,000,000
+   Black Hills Nanosystems Corporation, with oversight from Picatinny Arsenal, will manufacture Exploding Foil Initiator (EFI) devices. EFI devices ensure personnel safety by reducing the risk of unintended detonation. EFI devices are prohibitively expensive, especially for low-cost munitions. 
+  MEMS Microdetonator Packaging Technology for Advanced DOD Weapons
+  Received: $3,000,000
+   Purpose: This add will develop batch hermetic packaging of microdetonator devices. 
+  Black Hills Nanosystems Corporation, will partner with the Department of the Navy to develop batch hermetic packaging of microdetonator devices. The microdetonators needed by the Navy and the Marine Corps require hermetic packaging for long shelf life and reliable operation in harsh environments. 
+  High Sentinel Stratospheric Airship
+  Received: $5,800,000
+   Purpose: This add will provide the inflatable hull design and fabric specifications for the airship. 
+  The HiSentinelprogram will complete the development and flight testing of a new low-cost, expendable high-altitude unmanned airship. This vehicle will provide a long-duration platform for a wide range of military and intelligence applications, including surveillance, communications and networking. HiSentinel can be launched from any airport or large open area, and from its cruise altitude of 60,000-70,000 feet, the platform has a 360 degree, 600 mile field of view. Current high altitude platforms are limited to short duration missions of 24 hours or less. HiSentinel will provide an unmanned airship capable of carrying different payloads for durations greater than 30 days. 
+  Laser Engineered Net Shaping (LENS) Qualification for Aging Weapons Systems Structural Repair
+  Received: $2,000,000
+   The average age of operational weapons systems continues to climb due to budget constraints and the cost of developing replacement systems. Laser Engineered Net Shaping (LENS) is a technology that has significant potential for extending the structural life and reducing cost in both near and long term sustainment of aging weapons systems. This project will use a methodical approach to qualifying LENS technologies for use as standard repair processes on families of similar components.
+  Friction Stir Welding (FSW) Qualification for Aging Weapons Systems Structural Repair
+  Received: $2,000,000
+   The average age of operational weapons systems continues to climb due to budget constraints and the cost of developing replacement systems. Friction Stir Welding (FSW) is a technology that has significant potential for extending the structural life and reducing cost in both near and long term sustainment of aging weapons systems. 
+  Integrated Mechanical Diagnostics Health and Usage Management System and Condition Based Maintenance 
+  Received: $5,800,000
+   The CH-53E helicopter is the work horse of the Marine Corps and has the highest maintenance burden and associated costs within the DOD helicopter fleet. Since 2001, the Marines have been equipping the fleet with the Integrated Mechanical Diagnostics health and usage management System (IMDS). This system automates and simplifies many maintenance tasks and collects data necessary to support the transition to Condition Based Maintenance. 
+  Instrumentation Program for Tribal Colleges
+  Received: $3,300,000
+   Tribal Colleges have allowed many people to transition from welfare rolls to advanced academic degrees, including former students who are now valuable members of the military, running businesses, and employing people on the reservations, where dreams of careers and self-sufficiency are now a reality. The Tribal Colleges are a living testament to how education can dramatically affect every aspect of a person's life and an important source of qualified and dedicated members for the armed services. 
+  B-1B Fleet
+   Modernization and Upgrade Program for the B-1B
+  Received: $10,000,000
+   The B-1 aircraft provides a unique long range strike capability with a large and varied payload. Currently, B-1s are able to deploy with several types of launchers that are unique to the type of weapon. However, a new modification is now available and needed to fully exploit this capability and would provide better flexibility for the timely pairing of the weapons to targets.
+  Air National Guard
+   LITENING 4th Generation (LG4) Advanced Targeting Pod (TGP) for Air National Guard F-16 and A-10Aircraft
+  Received: $49,500,000
+   The Air National Guard F-16 Block 25/30/32/42 aircraft and A-10 aircraft require precision attack capability in order to fulfill their warfighting requirements. This includes advanced targeting pods to allow for improved battlefield management and standoff capability. The addition of $49.5 million will allow the Air National Guard to increase its acquisition of advanced targeting pods and provide pilots with the ability to employ precision-guided munitions.
+   Contact: Julianne Fisher, 202/224-1638.
+ 
+ 

@@ -1,0 +1,13 @@
+SEN. DOMENICI LAUDS LANL FOR SECURITY NASA GRANTS
+  Sen. Pete Domenici today applauded Los Alamos National Laboratory for being selected to conduct research for NASA's SWIFT program. NASA has issued three one-year grants totaling $123,000 that focus on gamma-ray bursts, or GRB's.  
+   SWIFT is a first-of-its-kind multi-wavelength observatory dedicated to the study of gamma-ray bursts, an energetic form of electromagnetic radiation that give a brief, but brilliant, burst of gamma-rays from a random point in the sky about once per day. 
+   "GRB's give off an incredible amount of gamma rays during these huge explosions but their origin remains somewhat of a mystery," Domenici said. "In September 2004, NASA plans to put SWIFT on a rocket and into orbit. Armed with the research provided by Los Alamos National Lab, NASA will be better prepared to hone its research and study the source and characteristics of GRB's." 
+   The primary goal of SWIFT is to determine the origin of GRB's and use these bursts to probe the early universe. Secondary goals include to classify GRB's and search for new types, determine how the it evolves and interacts with the surroundings, and to perform a sensitive survey of the sky using X-rays. 
+   LANL will direct three projects to benefit NASA and the SWIFT program: 
+   * Milagro Observations of TeV Gamma-Rays Coincident with SWIFT Detected GRBs-$33,000 to use Milagro, a new type of high energy gamma-ray observatory, to observe GRB's in order to test the understanding of fundamental physics in these powerful bursts. 
+   * Gamma-Ray Burst Progenitors-$40,000 to study binary star, or two-star, mergers as a progenitor to GRB's and ultimately determine the exact precursor of long-duration gamma-ray bursts. 
+   * Unique Observations of Prompt Optical Emission by the RAPTOR Telescopes $50,000 to study transmissions from the RAPTOR (Rapid Telescopes for Optical Response), which is designed to identify and make follow-up observations of optical sources that suddenly change, such as appearing, disappearing or drastically brightening or dimming. 
+   SWIFT is an innovative mission designed specifically for GRB science. SWIFT's three telescopes will work together to observe GRBs and their afterglows in the gamma-ray, X-ray and optical wavebands. Over the next several days SWIFT will return to the GRB to observe the afterglow's behavior over time. 
+   SWIFT is part of NASA's medium explorer (MIDEX) program. It will be launched into orbit on a rocket in September 2004. During its nominal two-year mission, SWIFT is expected to observe more than 200 bursts and afterglows, which will represent the most comprehensive study of GRB afterglow to date.
+ 
+ 

@@ -1,0 +1,52 @@
+import os
+from urllib import *
+from nltk import utilities
+import nltk
+
+os.chdir('C:\CongressPress\Bond')
+
+
+html= ['http://bond.senate.gov/public/index.cfm?FuseAction=PressRoom.NewsReleases&ContentRecordType_id=759d888b-7087-4636-a1dc-c6b0c67d3207&Region_id=&Issue_id=&MonthDisplay=0&YearDisplay=2007',
+       'http://bond.senate.gov/public/index.cfm?FuseAction=PressRoom.NewsReleases&ContentRecordType_id=759d888b-7087-4636-a1dc-c6b0c67d3207&Region_id=&Issue_id=&MonthDisplay=0&YearDisplay=2006',
+       'http://bond.senate.gov/public/index.cfm?FuseAction=PressRoom.NewsReleases&ContentRecordType_id=759d888b-7087-4636-a1dc-c6b0c67d3207&Region_id=&Issue_id=&MonthDisplay=0&YearDisplay=2005',
+       'http://bond.senate.gov/public/index.cfm?FuseAction=PressRoom.NewsReleases&ContentRecordType_id=759d888b-7087-4636-a1dc-c6b0c67d3207&Region_id=&Issue_id=&MonthDisplay=0&YearDisplay=2004',
+       'http://bond.senate.gov/public/index.cfm?FuseAction=PressRoom.NewsReleases&ContentRecordType_id=759d888b-7087-4636-a1dc-c6b0c67d3207&Region_id=&Issue_id=&MonthDisplay=0&YearDisplay=2003',
+       'http://bond.senate.gov/public/index.cfm?FuseAction=PressRoom.NewsReleases&ContentRecordType_id=759d888b-7087-4636-a1dc-c6b0c67d3207&Region_id=&Issue_id=&MonthDisplay=0&YearDisplay=2002',
+       'http://bond.senate.gov/public/index.cfm?FuseAction=PressRoom.NewsReleases&ContentRecordType_id=759d888b-7087-4636-a1dc-c6b0c67d3207&Region_id=&Issue_id=&MonthDisplay=0&YearDisplay=2001']
+
+
+for j in range(5, len(html)):
+    out = urlopen(html[j]).read()
+    soup = BeautifulSoup(out)
+    res  = soup.findAll('a')
+    fr= []
+    for k in range(len(res)):
+        if res[k].has_key('href'):
+            ab = res[k]['href']
+            ba = re.findall('id', str(ab))
+            if len(ba)>0 :
+                fr.append(ab.encode('UTF-8'))
+
+    store = ''
+    for num in range(len(fr)):
+        store += 'http://bond.senate.gov/public/' + fr[num] + '\n'
+    fr = store.split('\n')
+    fr.remove('')
+    fr = fr[3:]
+
+    for num in range(len(fr)):
+        test = urlopen(fr[num]).read()
+        soup2 = BeautifulSoup(test)
+        divs = soup2.findAll('div')
+        date = soup2.findAll('h4')
+        date = utilities.clean_html(str(date))
+        date = re.sub('\W', '', date)
+        for k in range(len(divs)):
+            if divs[k].has_key('id'):
+                if divs[k]['id']=='contentRecord':
+                    store = utilities.clean_html(str(divs[k]))
+        names = 'Bond' + str(num) + date + '.txt'
+        files = open(names, 'w')
+        files.write(store)
+        files.close()
+        

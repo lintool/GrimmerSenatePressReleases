@@ -1,0 +1,11 @@
+SEN. DOMENICI: $35 MILLION WILL LAUNCH LOS ALAMOS NATIONAL LABORATORIES UPGRADE TO SUPERCOMPUTING POWERHOUSE
+  Sen. Pete Domenici today welcomed official action to undertake the Los Alamos National Laboratories bid to acquire what will eventually be the world's fastest computing supercomputer.  
+   Domenici, chairman of the Senate Energy and Water Development Appropriations Subcommittee, provided $35 million in FY2006 funding to begin a three-phase program to acquire a supercomputer that is able to run at a sustained performance level of 1 petaflop, or a billion million computations per second. 
+   LANL, through the National Nuclear Security Administration, today issued a request for proposals to begin phase one of the effort. 
+   "LANL currently has some of the most limited computational capabilities of all the DOE laboratories. That will change with this new petaflop computer, which will fill an immediate need to increase the lab's computing capabilities," Domenici said. 
+   "Without underground testing, it is essential for our labs to simulate weapons designs and all modifications to ensure the safety and reliability of our nuclear deterrent. This is a cutting-edge technology that will give Los Alamos and the United States the first petaflop machine in the world," he said. 
+   The so-called Roadrunner supercomputer at LANL, according to the RFP, would be completed in three phases. The first phase to deliver cluster-based machine is expected to be completed this summer. The computer, which will cost an estimated $90 million, could eventually have 2 petaflop capabilities. 
+   "This is a continuation of the long history of cutting-edge computing at Los Alamos," Domenici said. "Once again, Los Alamos and the U.S. computing industry will take a very forward-leaning position in New Mexico by attempting to develop the world's fastest supercomputer utilizing the industry's newest technology." 
+   Domenici noted that the Roadrunner should also facilitate the deployment of other high speed machines within DOE to solve complex scientific challenges considered as part of the President's American Competitiveness Initiative and the Global Nuclear Energy Partnership as part of the Advanced Energy Initiative.
+ 
+ 

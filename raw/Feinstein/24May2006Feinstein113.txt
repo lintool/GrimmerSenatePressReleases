@@ -1,0 +1,28 @@
+SENS. FEINSTEIN, SPECTER SEEK TO REAFFIRM FISA AS EXCLUSIVE MEANS FOR DOMESTIC ELECTRONIC SURVEILLANCE ON AMERICANS
+  Sens. Dianne Feinstein (D-Calif.) and Arlen Specter (R-PA) today introduced legislation that would reaffirm that the Foreign Intelligence Surveillance Act (FISA) is the exclusive means by which our government can conduct electronic surveillance of U.S. persons on U.S. soil for foreign intelligence purposes. 
+   Beyond this, the legislation makes significant changes to the existing FISA authorities and procedures to prevent bureaucratic delay in an emergency circumstance. These changes are designed to allow applications to move faster from the field to the FISA Court, and to allow it to handle any increased caseload that will result from bringing the current National Security Agency (NSA) program into the FISA regime. 
+   "Our nation is at war against terrorists, who seek to attack us in unpredictable and asymmetric ways," Senator Feinstein said. "It will be a long war, and it will be mostly fought in the shadows. Our intelligence agencies must have the necessary tools to thwart those who seek to do us harm. 
+   "But it is important that we wage this war in a way that upholds our laws and our principles. We must not sacrifice the basic rights enshrined in the Constitution, including the Fourth Amendment protections against unreasonable searches and seizures." 
+   "The terrorist surveillance program threatens those protections. As one who has been briefed on the details of the NSA surveillance program, I have come to believe that this surveillance can be done, without sacrifice to our national security, through court-issued individualized warrants for content collection on U.S. persons under the FISA process."
+   "The way the Administration has moved forward with this program has brought us to the brink of a Constitutional confrontation. The legislation that Senator Specter and I are introducing today ensures that the surveillance program is being carried out under the law and restores the checks and balances between the branches of government." 
+   Specifically, the bill would:
+   * Re-state that FISA is the exclusive means by which our government can conduct electronic surveillance of U.S. persons on U.S. soil for foreign intelligence purposes;
+   * Prohibit the use of federal funds for any future domestic electronic surveillance that does not fully comply with the law; and
+   * Expressly state that there is no such thing as an "implied" repeal of FISA laws. In other words, no future bill can be interpreted as authorizing an exemption from FISA unless it expressly makes an exception.
+   The legislation also streamlines FISA procedures and provides additional resources to allow the process to move faster. It would:
+   * Extend the period of emergency electronic surveillance from 72 hours to seven days;
+   * Allow the Attorney General to delegate his authority to approve FISA warrant applications to two other Senate-confirmed Justice Department officials;
+   * Authorize designated supervisors at the NSA and the Federal Bureau of Investigation (FBI) to initiate emergency electronic surveillance to prevent bureaucratic delay in an emergency circumstance, provided that the surveillance is reported to the Attorney General within 24 hours, and approved by the Attorney General within three days and the FISA Court within seven days;
+   * Expand FISA's allowance for 15 days of warrantless surveillance following a declaration of war to also authorize 15 days of surveillance following a Congressional authorization to use military force or a major terrorist attack against our nation;
+   * Authorize additional personnel at the NSA, the FBI, the Department of Justice, and the FISA Court, to reduce the time it takes to initiate, review, and file a FISA application;
+   * Allow for additional judges to be appointed to the FISA Court as needed to manage the caseload;
+   * Facilitate a review of the FISA application process, culminating in a report to Congress designed to eliminate any unnecessary delay in the filings; 
+   * Mandate the creation of a secure, classified document management system to facilitate electronic filing; and
+   * Require that the full Intelligence Committees be briefed on all electronic surveillance, and related programs.
+   "We've added these changes to help transform the FISA process into one agile enough to meet the Administration's timeliness needs, while also preserving judicial oversight and our important constitutional privacy protections," Senator Feinstein said.
+   BACKGROUND ON FISA COURT
+   The FISA Court was created in 1978, following the Church Committee's investigation of some of our government's worst civil rights violations - J. Edgar Hoover's spying on Martin Luther King, Jr., and Vietnam-era "enemies lists," for example. These abuses were the result of domestic spying - electronic surveillance - under the guise of foreign intelligence. 
+   In response, Congress, working with both the Ford and Carter Administrations, drafted and later enacted FISA to be the exclusive means to conduct electronic surveillance of U.S. persons. It created a special court that has to approve a warrant for every domestic wiretap, and provides for careful congressional oversight.
+   For the text of the bill, visit http://feinstein.senate.gov/06releases/fisa-exclusive-bill.PDF.
+ 
+ 

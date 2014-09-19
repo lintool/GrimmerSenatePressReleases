@@ -1,0 +1,91 @@
+SENS. FEINSTEIN, CANTWELL, WYDEN, HARKIN RENEW EFFORT TO PREVENT FRAUD, MANIPULATION OF ENERGY MARKETS
+  In light of continuing revelations about pervasive manipulation of the western energy market, Sens. Dianne Feinstein (D-Calif.), Maria Cantwell (D-WA), Ron Wyden (D-OR), and Tom Harkin (D-IA) today introduced legislation that would improve price transparency and provide adequate regulatory oversight of the wholesale electricity markets.
+   "A mountain of evidence has accumulated definitively showing that energy companies deliberately manipulated the market," Senator Feinstein said. "It's been more than four years since the beginning of the energy crisis in the west, and yet Congress has done virtually nothing to protect American consumers. It's time to provide the necessary regulatory oversight and ensure that there is not a repeat of the energy crisis that had such a devastating impact on California and the West."  
+   Just last month, the Snohomish Public Utility District released transcripts of tapes revealing that on January 17, 2001, Enron traders concocted false repairs for a Las Vegas power plant - making power unavailable that would have been delivered to California - on the very same day that supplies were so tight that Northern California experienced a Stage 3 power emergency and rolling blackouts hit as many as 2 million consumers. 
+   Telephone transcripts between Enron and the Las Vegas plant confirming the effort to falsify repairs read as follows: 
+   Bill: Ah, we want you guys to get a little creative.
+  Rich: OK.
+  Bill: And come up with a reason to go down.
+  Rich: OK
+  Bill: Anything you want to do over there? Any -
+  Rich: Ah-
+  Bill: Cleaning, anything like that?
+  Rich: Yeah, Yeah. There's some stuff we could be doing.
+  Bill: That's good.
+  Rich: Right.
+  Bill: It's supposed to be, ah, you know, kinda one of those things.
+  Rich: OK, so we're comin' down for some maintenance, like a forced outage type thing?
+  Bill: Right.
+  Rich: And that's cool.
+  Bill: Hopefully....
+  Bill: So you got a-so you're checkin' a switch on the steam turbine.
+  Rich: Yeah, and whatever adjustment he makes today, is probably-tonight, is probably not gonna work, so we're probably gonna have to check it tomorrow afternoon again.
+  Bill: I think that's a good plan, Rich.
+  Rich: All right.
+  Bill: I knew I could count on you. 
+   "It has become clear that we cannot depend on any ethical conduct from traders in the energy market," Senator Feinstein said. "The federal government, therefore, needs to step in and give FERC increased authority to punish bad behavior and prevent future abuses."
+   Specifically, this legislation would: 
+   * Improve price transparency in wholesale electricity markets. It would direct the Federal Energy Regulatory Commission (FERC) to establish an electronic system to provide information about the price and availability of wholesale electricity to buyers and sellers and the public. 
+   * Prohibit round trip electricity trades. 
+   * Increase penalties for violations of federal power act. It wouldincrease the maximum fine for violations of the Federal Power Act from $5,000 to $1,000,000, increase maximum sentence from 2 to 5 years, and extend penalty authority to other provisions of the Federal Power Act.   
+   * Increase penalties for violations of natural gas act. It would increase the maximum fine for violations of the Natural Gas Act from $5,000 to $1,000,000.   
+   * Prohibit manipulation in electricity markets and give FERC discretionary authority to revoke market-based rates for violations.   
+   * Repeal "Enron exemption," the exemption for large traders in energy derivatives and apply the anti-manipulation and anti-fraud provisions of the Commodity Exchange Act to all over-the-counter trades in energy derivatives. 
+   * Provide Commodity Futures Trading Commission (CFTC) tools to monitor over-the-counter energy markets. For over-the-counter trades in energy derivatives that perform a "significant price discovery function," and for all energy trades on electronic exchanges, the bill would require large sophisticated traders (defined using current law as "eligible commercial entities" and "eligible contract participants") to keep records and report large trades to the CFTC.
+   * Focus reporting and recordkeeping requirementson over-the-counter trades that perform a "Significant Price Discovery Function," consistent with the recommendations of the President's Working Group on Financial Markets. 
+   * Limit use of data. It would require CFTC to seek only information necessary to detect and prevent price manipulation in the futures and over-the-counter markets for energy, to keep proprietary trade and business data confidential except when used for law enforcement purposes, and to not require the real-time publication of proprietary data. 
+   However, the bill would have no effect on: 
+   * The regulation of Futures Markets, Financial Derivatives, or Metals; or 
+   * Swaps or Electronic Trading of Non-Energy Commodities. 
+   As a result of investigations related to fraud and manipulation of energy prices during the energy crisis, 20 energy executives have been convicted or pled guilty to criminal charges. Additionally, 24 companies have entered into settlements with FERC or the California Public Utilities Commission over complaints raised during the crisis. A list of those convicted and the companies that have entered into settlements follows.
+   Convicted or Pleaded Guilty 
+   * Timothy DeSpain, Assistant Treasurer at Enron, pleaded guilty to conspiracy and admitted lying or withholding pertinent information from credit rating agencies at the request of multiple superiors so the company's financial picture appeared healthier than it was. 
+   * Kevin P. Hannon, Chief Operating Officer of Enron, pleaded guilty to a single charge of conspiracy to commit securities fraud. In addition, Hannon settled civil charges lodged by the SEC. 
+   * Daniel Bayly, former head of Merrill Lynch & Co.'s investment banking, convicted of conspiracy and two counts of wire fraud. 
+   * James A. Brown, former head of Merrill Lynch & Co.'s asset lease and finance group, convicted of conspiracy and two counts of wire fraud. 
+   * William Fuhs, a Vice-President of Merrill Lynch & Co who reported to Brown, convicted of conspiracy and two counts of wire fraud. 
+   * Robert S. Furst, former manager of Merrill Lynch & Co.'s relationship with Enron, convicted of conspiracy and two counts of wire fraud. 
+   * Dan O. Boyle, former Enron finance executive, convicted of conspiracy and two counts of wire fraud. 
+   * John Forney, former energy trader, pleaded guilty to wire fraud for manipulating energy markets during California 's power crisis of 2000-2001.   
+   * Andrew Fastow, former Enron finance chief, pleaded guilty to two counts of conspiracy, admitting to orchestrating schemes to hide Enron debt and inflate profits while enriching himself on the side. 
+   * Lea Fastow, former assistant treasurer of Enron, pleaded guilty first to a felony tax crime, admitting to helping hide ill-gotten gains from her husband's schemes from the Internal Revenue Service, including kickbacks in the form of checks written to their young sons she endorsed and deposited. Withdrew plea, then pleaded guilty in May to a newly filed misdemeanor tax crime. 
+   * Timothy Belden, former top Enron trader, pleaded guilty to wire fraud for participating in trading schemes to manipulate California power markets. 
+   * Larry Lawyer, pleaded guilty to filing false tax returns that didn't identify more than $79,000 in income over four years he received as "gifts" from Kopper for his work in one of Fastow's schemes. 
+   * David Duncan, Arthur Andersen LLP's former top Enron accountant, the government's first Enron-related cooperating witness, he pleaded guilty to obstruction of justice, admitting to participating in destruction of Enron-related documents in late 2001 as regulators began investigating the energy company's finances. 
+   * Michael Kopper, former top Fastow aid, first Enron insider to plead guilty. Pleaded guilty to two counts of conspiracy. Admitted to helping Fastow carry out schemes to help Enron manipulate its books while skimming millions for himself, Fastow and selected friends and colleagues. Admitted to stealing more than $16 million, but ordered to surrender $8 million and his rights to another $4 million tied to a Fastow-created partnership he ran. 
+   * Paula Rieker, former No. 2 executive in investor relations, pleaded guilty to insider trading for selling shares in mid-2001 upon learning that Enron's broadband unit lost more money than publicly disclosed. 
+   * Kenneth Rice, former broadband unit CEO, pleaded guilty to securities fraud. 
+   * Jeffrey Richter, former Enron trader, pleaded guilty to wire fraud, admitting to manipulating the California power market. 
+   * Ben Glisan Jr., former Enron treasurer, pleaded guilty to conspiracy. Admitted to helping design financial deals that enriched him and illegally kept investment losses off Enron's books. 
+   * David Delainey, former head of Enron's trading and retail energy units. Pleaded guilty to insider trading, admitting being in on a senior management scheme to manipulate the company's earnings to meet or exceed Wall Street expectations. Surrendered $4.25 million in ill-gotten gains from insider trades. 
+   * Mark Koenig, former head of Enron's investor relations sector, pleaded guilty to aiding and abetting securities fraud 
+   Companies that have settled claims to avoid prosecution and admittance of guilt 
+   * El Paso settled twice-first for $15.5 million in July 2003, then for $1.6 billion in November 2003 for withholding pipeline capacity. 
+   * Dynegy and California Parties in the amount of $281 million for allegations of physical withholding insofar as these proceedings pertain to the Dynegy Parties' sales to California Independent System Operator (CAISO) and the California Power Exchange (CalPX) (10/25/04) 
+   * Williams settled for $137.2 million for alleged manipulation of the California energy market (7/04) 
+   * Dynegy Power Marketing in the amount of $3.01 million for alleged participation in gaming practices. (8/5/04) 
+   * Duke for $2.5 million for allegedly manipulating bidding practices in California markets and physical withholding of generation (12/19/03) 
+   * Reliant paid $13.8 million to settle allegations that it intentionally shut down some of its power plants to boost prices (1/03). 
+   * Coral Power in the amount of $7,787,055 for alleged participation in gaming practices. (8/2/04) 
+   * Sempra Energy Trading Corporation in the amount of $7,238,516 for alleged participation in gaming practices. (8/2/04) 
+   * Avista Corporation in the amount of $75,000 for allegations of being 1) engaged in trading strategies that were designed to manipulate the California energy markets in 2000 and 2001; 2) engaged in trading activities in violation of the Commission's rules on affiliate transactions; and 3) failed to cooperate with a commission investigation in a show cause proceeding that concerned possible manipulation of electric and natural gas prices in the West. (4/19/04) 
+   * Powerex Corporation (British Columbia) in the amount of $1,300,000 for alleged participation in gaming practices. (3/26/04) 
+   * Acquila Merchant Services, Inc. in the amount of $75,975 for alleged participation in gaming practices. (3/8/04) 
+   * Morgan Stanley Capital Group, Inc. in the amount of $857,089 for alleged participation in the gaming practices of Cutting Non-Firm and Circular Scheduling. (3/8/04) 
+   * PacificCorp in the amount of $67,745 for alleged participation in the gaming practice of Wheel Out. (3/8/04) 
+   * Portland General Electric Company in the amount of $12,730 for alleged participation in the gaming practices of Cutting Non-Firm. (3/8/04) 
+   * Idaho Power Company in the amount of $83,373 for alleged participation in the gaming practice of Circular Scheduling. (3/4/04) 
+   * Reliant Resources, Inc. in the amount of $836,000 for alleged participation in the gaming practice of Double Selling. (3/4/04) 
+   * American Electric Power Service Corporation in the amount of $45,240 for alleged participation in gaming practices and/or anomalous market behavior. (1/22/04) 
+   * Puget Sound Energy, Inc. in the amount of $17,092 for alleged participation in gaming practices. (1/22/04) 
+   * Williams Energy Services Corp. in the amount of $45,230 for alleged participation in gaming practices. (1/22/04) 
+   * San Diego Gas & Electric Company in the amount of $27,972. (1/22/04) 
+   * Portland General Electric Company in the amount of $8.5 million. (12/18/03) 
+   * Reliant Energy in the amount of $50 million. (10/2/03) 
+   * BP Energy must provide $3 million to fund low-income home energy assistance programs for customers in California and Arizona for alleged manipulation of short-term prices. (7/18/03) 
+   * AES-Williams in the amount of $8 million. (4/30/01) 
+   Additional proposed Settlements:
+   * Mirant for $749.7 million for price gouging and other manipulation (1/14/05) 
+   * Duke for $207.5 million for overcharges (7/13/04).
+ 
+ 

@@ -1,0 +1,16 @@
+SENS. BURNS, WYDEN INTRODUCE SPY BLOCK ACT
+  Sens. Conrad Burns (R-Mont.) and Ron Wyden (D-OR) announced today the introduction of their SPY BLOCK Act. The SPY BLOCK Act would prohibit a variety of surreptitious practices that result in spyware and other unwanted software being placed on consumers' computers.  
+   "In today's internet focused world, the practice of secretly installing programs into the hard drives of computer users has become all too common," said Burns. "When I purchase a computer and install it in my home, I expect to be the only one who has access to it," said Burns. "This legislation gives control back to those who should have it-it protects computer users from those potentially devastating spies and the programs they want to install." 
+   "Millions of Americans use computers daily to pay their bills, research medical conditions and to shop online, and no one should have to worry that with each click of a mouse their every move in cyberspace is being watched," said Wyden. "Consumers should have control over the programs on their machines and should not have their privacy jeopardized by invasive programs lurking on their computers. That's what the SPYBLOCK bill is about." 
+   SPY BLOCK starts from the premise that each computer user should have knowledge and control over what software is resident on his or her machine. Thus, the bill's prohibitions generally focus on the installation of software. Specifically, the bill would prohibit: 
+   * Surreptitious installation of software, where the user never intended to trigger the installation of any software and may not even be aware that any installation is occurring. 
+   * Misleading inducements to install software, where a user is tricked into installing software by misrepresentations concerning who is providing the software or what it does. 
+   * Installing software that, once installed, prevents efforts by the user to uninstall or disable it. 
+   * Installing software that surreptitiously collects and transmits information about the user of a computer, automatically and without notice to the user, for purposes that aren't related to making a user's software or online service operate as intended. 
+   * Installing software that causes ads to appear without identifying itself as the source of the ads. 
+   * Engaging in any of a variety of other deceptive practices that thwart a user's control over his or her computer. 
+   The bill also includes criminal penalties for certain particularly egregious and intentional acts, and protection for providers of anti-spyware technology acting in good faith from being sued for blocking or removing software programs from a user's computer. 
+   The Federal Trade Commission would be charged with enforcing SPY BLOCK, with violations treated as unfair or deceptive trade practices. In addition, state Attorneys General would be authorized to bring actions as well. The bill would preempt state spyware statutes, except to the extent such statutes prohibit deception.
+   Contact: Jennifer O'Shea, 202/224-6830.
+ 
+ 

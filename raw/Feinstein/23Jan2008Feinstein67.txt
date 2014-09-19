@@ -1,0 +1,27 @@
+SEN. FEINSTEIN DISCUSSES TWO AMENDMENTS TO FISA BILL ON EXCLUSIVITY, INDEPENDENT JUDICIAL REVIEW
+  In anticipation of the debate on the FISA bill, Senator Dianne Feinstein (D-Calif.) took to the Senate Floor today to discuss two amendments that she plans on offering.
+   The first amendment would ensure that the federal government must follow the requirements of the Foreign Intelligence Surveillance Act of 1978 (FISA) when conducting electronic surveillance of American citizens for foreign intelligence purposes. 
+   The second amendment would force telecommunications companies who participated in the Terrorist Surveillance Program to go before the FISA Court to justify their actions.
+   If the companies can show that they were acting based on legal Government certification or in good faith, or that they did not provide the alleged assistance, then immunity would be granted.
+   If they cannot make such a showing, then immunity would not be granted.
+  Exclusivity
+   "This amendment makes it crystal clear that FISA is the exclusive means for electronic surveillance - not the AUMF or any other broad Congressional action," Senator Feinstein said. "The President does not have the right to collect the content of Americans' communications without obeying the governing law -- and that law is FISA. Let there be no doubt: FISA has been - and continues to be - the exclusive means for electronic surveillance in this country. This amendment simply reaffirms and strengthens the existing law."
+   The exclusivity amendment does the following:
+   Reiterates that FISA is the exclusive means for conducting electronic surveillance on U.S. persons for foreign intelligence purposes.
+   States that only an "express statutory authorization" for electronic surveillance in future legislation shall constitute an additional authority outside of FISA. This makes clear that only specific future law (as opposed to a broad Authorization for Use of Military Force) that provides an exception to FISA can supercede FISA.
+   Those who conduct electronic surveillance outside of specific statutory authority would be subject to criminal penalties.
+   Requires more clarity in any certification that the government provides to a telecommunications company when it requests assistance for surveillance and there is no court order. Currently, such certifications must say, under 18 USC 2511, that the statutory requirements for assistance have been met. The telecom official receiving that certification is not given any specifics on what those statutory requirements are. So the company cannot conduct its own legal review. This amendment would require that if the assistance is based on statutory authorization, that the certification must specify what provision in law provides that authority, and that the conditions of that provision have been met.
+  The amendment is co-sponsored by Senators Chuck Hagel (R-NE), Jay Rockefeller (D-WV), Patrick Leahy (D-VT), Bill Nelson (D-Fla.), Sheldon Whitehouse (D-RI), Ron Wyden (D-Ore.), Robert Menendez (D-NJ), and Olympia Snowe (R-ME).
+   Independent Judicial Review of Telecom Immunity
+   The Feinstein amendment would put the question of telecommunication companies' immunity before the FISA Court.
+   "This amendment is a better alternative," Senator Feinstein said. "It does not grant immunity. It says that this is a decision that should be made by the FISA Court, not Congress. If the court finds that the companies were acting in good faith or based on legal government certification, then they would receive immunity. But if they were not, then they would not receive immunity, and the cases would move forward. This strikes the right balance and puts the decision where it belongs - in the FISA court."
+   The FISA Court, acting en banc, would initiate a three-part review:
+   First, the Court would determine whether the letters sent by the government to the telecommunications companies meet the conditions of the law.
+   Specifically, the government must show that its letters comport to Title 18, Section 2511, which clearly states that a certification from the government is required in cases where there is no court order. Under this law, the government must certify in writing that all statutory requirements for the company's assistance have been met.
+   Second, the FISA Court would examine whether companies that provided assistance to the government without a certification did so in good faith and pursuant to an objectively reasonable belief that its compliance was legal.
+   Third, the FISA Court must determine whether the telecommunications company actually provided assistance.
+  If the FISA Court determines that the company did not provide assistance, or that the assistance provided met the legal requirements or was reasonable and in good faith, the immunity provision would apply.
+   If the FISA Court determines that none of these requirements were met, immunity would not be granted.
+   The amendment is cosponsored by Senator Bill Nelson (D-Fla.) and Ben Cardin (D-MD).
+ 
+ 

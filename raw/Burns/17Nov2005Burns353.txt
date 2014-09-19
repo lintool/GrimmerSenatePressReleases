@@ -1,0 +1,7 @@
+SEN. BURNS' 'SPYBLOCK' BILL APPROVED BY SENATE COMMERCE COMMITTEE
+  Sen. Conrad Burns (R-MT) announced today that the Senate Commerce Committee voted to approve his anti-Spyware bill, S. 687, as amended.  
+ The SPYBLOCK bill, co-sponsored by Sens. Bill Nelson (D-FL) and Barbara Boxer (D-CA), passed by a vote of 14-8 and will now move on to the Senate floor. 
+   Spyware refers to software which secretly collects information about computer users and shares it with others over the Internet without the users' knowledge or consent. This sneaky software is often used to track the movements of consumers online or even to steal passwords. Burns' SPYBLOCK (Software Principles Yielding Better Levels of Consumer Knowledge) Act, will ban downloads of pernicious Spyware, require notice and consent before software is installed on a computer that collects a user's sensitive personal information, and require uninstall labels on pop-up ads that are unrelated to a user's browsing experience. The bill will also preserve the flexibility for online business and advertisers to conduct a wide range of legitimate business practices. 
+   "I am pleased that a majority of the Committee agrees with me that Congress must act to protect the right of consumers to know when potentially dangerous Spyware is being downloaded onto their computers. As the SPYBLOCK Act moves forward to the Senate floor, I hope we can continue making it a stronger bill by making sure the private sector has all the right tools it needs to successfully slow the spread of malicious Spyware."
+ 
+ 

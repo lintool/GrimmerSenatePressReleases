@@ -1,0 +1,10 @@
+SEN. BURNS INTRODUCES BILL REQUIRING 911 SERVICE FOR INTERNET PHONE CUSTOMERS
+  Sens. Conrad Burns (R-Mont.), Bill Nelson (D-FL) and Hillary Clinton (D-NY) today introduced the I.P.-Enabled Voice Communications and Public Safety Act, a bill that would require Voice over Internet Protocol (VOIP) service providers to ensure that 911 and Enhanced 911 (E911) services are available to customers.  
+   Burns, a member of the Senate Commerce, Science and Transportation Committee said: "As folks continue to move away from land lines and toward cell phones and Voice over Internet Protocol services, we must ensure they have the safety net that 911 emergency services allow. The few seconds it takes someone to realize that their broadband connection cannot reach 911 can be the difference between life and death, and we cannot waste that time during an emergency. I am committed to making sure people in every corner of our country can successfully dial these three numbers from whatever type of phone they're calling from, and I look forward to passing this bill for the safety of all Americans." 
+   "Advances in technology should make life better, not put our lives on the line," said Nelson, a member of the Senate panel that oversees telecommunications. 
+   This bill would require traditional telephone companies to give VOIP companies access to their 911 networks and would ensure E911 services as well, allowing emergency personnel to determine the physical location of the caller. 
+   Until these rules are fully implemented any VOIP service provider that cannot comply must give customers clear notice that 911 and E911 service are not available. 
+   U.S. Rep. Bart Gordon today introduced a companion bill in the House of Representatives.
+   Contact: Jennifer O'Shea, 202/224-6830.
+ 
+ 

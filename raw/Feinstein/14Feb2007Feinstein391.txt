@@ -1,0 +1,32 @@
+SEN. FEINSTEIN ASKS GAO TO INVESTIGATE SARASOTA COUNTY ELECTRONIC VOTING SYSTEMS
+  Sen. Dianne Feinstein (D-Calif.) today asked the Government Accountability Office to launch an investigation of the electronic-voting system used in Sarasota County, Florida, in last year's midterm election.
+   The following is the text of Senator Feinstein's letter to David M. Walker, comptroller general of the United States: 
+   February 14, 2007
+   The Honorable David M. Walker
+  Comptroller General of the United States
+  U.S. Government Accountability Office
+  441 G Street, NW
+  Washington, DC 20548
+   Dear Mr. Walker:
+   I am writing to request that the Government Accountability Office (GAO) undertake an investigation of certain models of Direct Recording Electronic voting systems that are used in federal elections, but do not produce voter-verified paper ballots.
+   I am particularly concerned about the voting system used in Sarasota, Florida, where there was an 18,000 vote undercount in the past election - the ES&S iVotronic System utilizing the Unity Election Management Software - and would like a top-to-bottom investigation of this system.
+   In conducting this investigation, I would like you to consult with the National Institute of Standards and Technology, the Election Assistance Commission, and other appropriate government agencies that study or certify voting systems.
+   Your investigation should also include the following: the Avante Touch Screen, the Diebold TSX that utilizes the GEMS System, the Sequoia/Smartmatic HAAT (Hybrid Activator, Accumulator & Transmitter), and the Sequoia AVC Edge System that utilizes the WINEDS Election Management Software.
+   Should the GAO become aware of any systems that are prone to software malfunctions, are susceptible to fraud, or use hardware design that would lead to voting system problems, I would request that you also inspect those systems.
+   Among other issues, I request that the GAO address the following factors:
+   (1) Problems. Identify whether the DREs exhibited any problems or irregularities, including human error, malfunctions, source code errors, malicious tampering, fraud, major security vulnerabilities or software bugs while in use during the Federal elections conducted in 2004 and 2006. Please also consider any interaction between the vendor-?provided software and local inputs to the voting system.
+   (2) Reasons. If problems or irregularities occurred, identify the circumstances under which the problems or irregularities occurred and the potential reasons why they occurred.
+   (3) Location. Identify the state and local governments where the problems or irregularities occurred, if any.
+   (4) Results of Problems. Identify the impact, if any, the problems or irregularities had on the final outcome of the Federal elections involved.
+   I also request that you examine several commonly used "paper record printers." While more than half the states now require a paper trail or paper record, there have been concerns with the proper operation of these printers and the durability of the paper they produce.
+   For example, the Election Science Institute study of the thermal paper records in 2004 election in Cuyohoga County, Ohio, indicated that paper jams or printing problems caused approximately 10% of the paper records to be spoiled.
+   Please study the hardware and functionality of the Diebold Accuvote TSX with paper printer [focusing on printer performance], the ES&S iVotronic Touch Screen with paper trail, and the use of reel-to-reel thermal paper trail technology in other printers.
+    I also request that you report on other paper record printers that the GAO believes should be examined. Please also compare these systems with paper record printers that have had limited reported problems.
+   Since this matter is of importance to the Rules and Administration Committee, it would be greatly appreciated if the study is completed as soon as possible. With the 2008 Presidential election fast approaching, time is of the essence.
+   If there are any questions regarding this request, please feel free to have the GAO staff contact the Rules Committee staff - Howard Gantman, Staff Director, Veronica Gillespie, Elections Counsel, or Adam Ambrogi, Counsel.
+   Thank you for your cooperation and assistance in this matter.
+   Sincerely,
+   Dianne Feinstein
+  Chairman
+ 
+ 

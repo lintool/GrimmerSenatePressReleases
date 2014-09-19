@@ -1,0 +1,14 @@
+TRUTH IN CALLER IDENTIFICATION ACT PASSES SENATE COMMERCE COMMITTEE
+  The Senate Committee on Commerce Science and Transportation has passed S. 704, the Truth in Caller ID Act, which is cosponsored by Vice-Chairman Sen. Ted Stevens (R-Alaska). The bill was introduced in February by Sen. Bill Nelson (D-Fla.) and Sen. Olympia Snowe (R-Maine) and passed the Committee today during an executive session. The bill now awaits consideration by the full Senate. 
+  S. 704 would make it a crime to manipulate caller identification (ID) information and provide the Federal Communications Commission (FCC) with the enforcement tools it needs to stop this practice. The legislation is also cosponsored by Senator Claire McCaskill (D-Mo.) and Senator Amy Klobuchar (D-Minn.). Similar legislation in the House, H.R. 251, was introduced by Representatives Elliot Engel (D - N.Y.) and Joe Barton (R-Texas) and passed unanimously. 
+  "Caller ID provides critical information to those who rely on it," said Senator Stevens. "However, when this technology is used to deceive people it can endanger personal privacy and safety. This bill will help strengthen the ability of the FCC and states to combat these nefarious practices."
+  Caller ID services provide consumers with information about who is calling them before they answer the phone by displaying the caller's telephone number and/or name. Spoofing refers to the process by which caller ID information transmitted by a telephone call is manipulated to mislead the call recipient about the identity of the caller. The FCC's Enforcement Bureau has actively investigated the issue of caller ID spoofing since the summer of 2005.
+  The Truth in Caller ID Act (S.704) would specifically:
+   * prohibit any person from knowingly transmitting misleading or inaccurate caller ID information; 
+   * require the FCC to prescribe regulations and determine appropriate exemptions, including exemptions for personal safety, law enforcement or court authorized manipulation; 
+   * require a report to Congress on whether further legislation is needed to prohibit the provision of inaccurate caller I.D. information in technologies that are replacements or successors to voice telecommunications service or I.P.-enabled voice service within six months; 
+   * provide for penalties of $10,000 for each violation, or three times that amount for each day of a continuing violation, and $1,000,000 cap for any single act or failure to act; and 
+   * permit state Attorneys General to enforce the FCC's rules, after notice and opportunity to intervene is provided to the FCC.
+   Contact: Aaron Saunders, 202/224-1028; Steve Wackowski, 202/224-5122.  
+ 
+ 

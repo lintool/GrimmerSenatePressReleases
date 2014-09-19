@@ -1,0 +1,20 @@
+SENATE JUDICIARY COMMITTEE APPROVES DATA BREACH NOTIFICATION LEGISLATION TO PROTECT INDIVIDUALS FROM IDENTITY THEFT
+  The Senate Judiciary Committee today approved legislation introduced by Sen. Dianne Feinstein (D-Calif.) to protect individuals from identity theft by requiring businesses to notify consumers in the event of a security breach that exposes their personal data. 
+   Identical data breach notification provisions were included in a comprehensive data privacy bill sponsored by Senators Patrick Leahy (D-Vt.) and Arlen Specter (R-Pa.) that also passed out of Committee today. 
+   "Victims of a security breach often don't even know that their personal or financial information has been compromised," Senator Feinstein said. "This legislation would ensure that victims are informed promptly when a security breach occurs, so they can take the necessary steps to protect themselves from identity theft. Without that knowledge, individuals are left defenseless to identity thieves." 
+   Senator Feinstein said that the frequency of data breaches demonstrates that the legislation is needed sooner rather than later. Major data breaches have occurred in recent months at the TJX Companies, the U.S. Department of Agriculture, Johns Hopkins University, Boeing, the U.S. Department of Veterans Affairs, and UCLA. 
+   The Notification of Risk to Personal Data Act:
+   * Requires a federal agency or business entity to notify an individual of a security breach involving personal data without unreasonable delay; 
+   * Requires media notice as well as individual notice:
+   - Notice must include a description of the type of personal data breached and a toll-free number to call for more information; 
+   - If more than 5,000 individuals must be notified, then the company or agency must coordinate with credit reporting agencies;
+   - Requires notice to the Secret Service if records of more than 10,000 individuals are obtained or if the database breached contains more than one million entries, is owned by the federal government, or involves national security or law enforcement; 
+   - Allows limited exemptions for law enforcement and national security reasons; 
+   - Provides a safe harbor if a risk assessment concludes there is no significant risk of harm to individuals and the Secret Service does not overrule that conclusion; 
+   - Does not require notice for breaches that involve only credit card numbers, if the credit card issuer uses a security program that is designed to prevent financial fraud and provides for notice when a security breach leads to fraudulent transactions; 
+   - Authorizes the U.S. Attorney General and state Attorneys General to bring civil actions and impose penalties for violations of the notice requirement; 
+   - Supersedes any conflicting federal or state laws; and 
+   - Authorizes necessary appropriations.
+   - In the 109th Congress, Senator Feinstein's data breach notification measure was included as part of a comprehensive data privacy bill that passed the Judiciary Committee on November 17, 2005, but did not get Senate floor action.
+ 
+ 

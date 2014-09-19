@@ -1,0 +1,23 @@
+CHAIRMAN FEINSTEIN ADDRESSES RULES COMMITTEE HEARING ON EVALUATING ELECTRONIC VOTING SYSTEMS
+  Sen. Dianne Feinstein (D-Calif.), Chairman of the Senate Committee on Rules and Administration, today convened a hearing to evaluate the security of electronic voting systems used in federal elections and the ability to perform audits on these systems.
+   The following is the prepared text of Chairman Feinstein's opening remarks for today's hearing, "The Hazards of Electronic Voting - Focus on the Machinery of Democracy:" 
+   "I'd like to thank my Ranking Member, Senator Bennett, for joining me today at the first of what I expect will be a series of hearings on voting and election issues. I would also like to extend a warm welcome to the witnesses who have joined us today. Collectively, they represent considerable knowledge and experience on voting and elections.
+   I believe we are at an historic juncture in our nation's voting history today.
+   One-third of voters cast their ballots in the 2006 midterm election using new electronic voting machines, and problems arose in various jurisdictions throughout the country.
+   The most serious problem occurred in Sarasota, Florida, where there were 18,000 undervotes in the Congressional election. At this time, officials have been unable to account for what happened to these votes because there is no independent record.
+   Just last week, Florida Governor Charlie Christ announced plans to abandon the electronic touch-screen voting systems used in many of Florida's counties and adopt a system of casting paper ballots counted by scanning machines.
+   Other states are considering similar plans. And I believe it is time that Congress also considers necessary safeguards for all federal elections.
+   We must do everything we can to restore confidence in the final outcome of elections by helping to ensure that every vote cast by an American eligible voter is recorded accurately and counted.
+   Late last year, the Election Assistance Commission's Technical Guidance Development Committee recommended the development of an independent means of ballot verification.
+   But the process now underway at the EAC may take several years or more. The timing could leave this upcoming Presidential election, and perhaps even the next Presidential election without adequate safeguards.
+   There are those who will wring their hands and say it's impossible to adopt meaningful security and verifiability requirements for the 2008 election.
+   But one only has to look at what happened in Sarasota to see how dangerous it might be to wait. In Sarasota, we had an election with 18,000 "under votes" - when the difference between the two candidates was only 369 votes.
+   Imagine what would happen if a similar undercount occurred in a swing state election in the Presidential contest and there was no independent means of verification. No way to determine if there was a foul-up in the machines, or perhaps some software maliciously programmed to alter the results.
+   Knowing what we now know - can we afford to wait, and not require a voter-verified paper record of each voter's vote?
+   Yes, there will be those who will testify today and at future hearings that the electronic count is largely accurate and it will be very difficult for election officials to change rapidly.
+   But as is the case now in Florida, a growing number of states are recognizing the danger of relying on these electronic systems without an independent verification that is subject to random, manual audits.
+   Governor Crist and other state officials across the country are recognizing that the best way to safeguard security and ensure voter confidence is with an independent paper record.
+   And I believe that the time has come for Congress to help ensure that we have such a record in all federal elections.
+   I look forward to the advice that the witnesses will provide to the Senate as we closely review this issue."
+ 
+ 

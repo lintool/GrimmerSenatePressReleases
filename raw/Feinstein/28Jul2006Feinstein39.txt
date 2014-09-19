@@ -1,0 +1,43 @@
+SEN. FEINSTEIN URGES SMALL BUSINESS ADMINISTRATION TO PROVIDE MORE TIMELY DISASTER RELIEF, ENHANCE AGENCY'S TECHNICAL CAPABILITIES
+  In the wake of long delays in assistance following Hurricane Katrina, Sen. Dianne Feinstein (D-Calif.) today called upon the Small Business Administration (SBA) to immediately take steps to provide more timely disaster relief and to reassess the capacity of the agency's technical capability to prepare for future large-scale natural disasters. 
+   In a letter to SBA Administrator Steven Preston, Senator Feinstein cited the findings of a new Government Accountability Office (GAO) report which criticized the SBA for widespread delays in processing much-needed disaster assistance loans to hurricane victims along the Gulf Coast , in large part due to massive technical failures in the Agency's Office of Disaster Assistance.  
+   "The SBA has a fundamental responsibility to ensure that victims of a natural disaster receive timely assistance in securing loans to help them rebuild," Senator Feinstein said. "The GAO report released today, however, only confirms what we've known now for nearly a year: the federal government's handling of Hurricane Katrina was marred by serious failures and the SBA's response was no different. That is unacceptable. Millions of Americans across the country face the threat of natural disasters every day. From hurricanes to earthquakes, floods and fires, Americans deserve the peace of mind to know that they can count on the SBA for timely disaster relief when they need it most." 
+   Background: 
+   In February 2005 - well before Hurricane Katrina devastated the Gulf Coast - California SBA employees wrote a letter to Senator Feinstein, expressing their concerns about the new Disaster Credit Management System, or DCMS, which was designed to create a paperless system of making loans to disaster victims. SBA employees objected to the computer system, claiming that it had never been tested on a large-scale disaster of any kind and was already responsible for terrible delays, logjams and confusion when used in small-scale tests. They expected that further use of the problematic DCMS system would result in a spectacular failure in the event of the next big disaster. 
+   Senator Feinstein consequently wrote a letter to the SBA, questioning the effectiveness of the DCMS system and its risk of failure in the event of a large-scale disaster. She requested that the SBA respond with the results of a thorough evaluation of the DCMS system. 
+   In a follow-on letter to Senator Feinstein, Herbert Mitchell, Associate Administrator for Disaster Assistance, asserted that the DCMS had already undergone extensive testing and independent validation, and was sufficiently certified for widespread implementation. 
+   However, in the disastrous wake of Hurricanes Katrina and Rita, the DCMS system proved to be a massive failure. In September 2005, an article in USA Today reported that the paperless, web-based server severely hampered the ability of SBA employees to administer relief to the beleaguered residents of the Gulf Coast. At that time, only one of the over 28,000 outstanding disaster relief loans has been processed - far exceeding the SBA's intended disbursement goals. 
+   Senator Feinstein responded by calling for a reassessment of the agency's DCMS system, which resulted in the report released today. (Copies of the report available upon request)
+   Key Findings 
+   * The SBA experienced significant delays processing loan applications during the aftermath of the Gulf Coast Hurricanes Katrina, Rita and Wilma. As of May 27, 2006, SBA the average processing time was 74 days compared to the agency's goal of 21 days. 
+   * Several factors contributed to the delays, including the large volume of applications filed from disaster victims and referrals from FEMA. GAO found that SBA did not utilize catastrophic risk modeling when designing DCMS's capacity, which could have helped the agency anticipate and plan for a large natural disaster. 
+   * SBA did not adequately perform sufficient testing of the DCMS system and weak contractor oversight resulted in the agency not receiving the computer equipment it ordered until the disaster. 
+   GAO Recommendations 
+   The GAO concluded that the DCMS system provides a good opportunity to increase loan processing efficiency; however it suggests a number of actions the SBA should undertake going forward: 
+   * Reassess DCMS's maximum capacity based on catastrophic risk modeling and disaster simulations. Test the DCMS system based on these models. 
+   * Evaluate the feasibility of implementing a secure Internet-based application feature for home loan applications. 
+   * Improve management controls over computers contractors. 
+   The following is a letter sent by Senator Feinstein to SBA Administrator Steven Preston: 
+   July 28, 2006 
+   The Honorable Steven Preston
+  The Small Business Administration
+  409 Third Street, SW
+  Suite 7000
+  Washington, DC 20416 
+   Dear Administrator Preston: 
+   I am writing to urge the Small Business Administration to immediately act the on the recommendations presented in a Government Accountability Office report released today evaluating the SBA's Disaster Assistance efforts. Particularly, I ask that you reassess the capacity of the Disaster Credit Management System (DCMS), which will help prepare the agency's response for future large natural disasters. 
+   The Government Accountability Office report titled "Small Business Administration: Actions Needed to Provide More Timely Disaster Assistance" unfortunately confirms what the employees of the Sacramento Disaster Assistance Office told me in February 2005 letter, that the Small Business Administration's new DCMS loan processing system was not capable of handling a large natural disaster. For example, the GAO reported that the average time to process a loan at the end of May 2006 was 74 days compared the SBA goal of 21 days. 
+   I wrote to SBA on March 2, 2005 expressing my concern about DCMS's ability to handle a large-scale natural disaster. The response I was given on March 28, 2005 is that DCMS had "undergone extensive testing, an independent validation and verification process by an independent contractor and has been certified by the SBA's Office of Chief Information Officer." The Gulf Coast Hurricanes Katrina, Rita and Wilma in August and September 2005 clearly proved these assurances wrong. 
+   * What guarantees can you give me that testing and contracting problems identified in the GAO report will not be replicated? 
+   * What steps are you taking to address the faults exposed in the DCMS loan processing system? 
+   The GAO concluded one of main of the causes of delay was that SBA did not use catastrophic risk modeling when designing DCMS capacity. Catastrophic risk modeling is used by private insurance companies and public agencies like the California Earthquake Authority to calculate potential risks associated with a catastrophic earthquake in California. It makes sense to me that the SBA develop these models and utilize them to increase capacity of its loan processing systems as well as plan for large-scale disasters. 
+   * Do you plan on utilizing catastrophic risk modeling to reassess DCMS's capability? If not, please explain why? 
+   * Are there other action items you foresee that can immediately improve the loan processing system? 
+   In addition to these specific questions, please explain to me in detail your response to all of GAO's findings and recommendations. 
+   California faces numerous and unique natural disaster threats that threaten millions of people including earthquakes, tsunamis, floods, and forest fires, so I look forward to a prompt response. Thank your for your consideration of this request and please do not hesitate to contact me. 
+   Sincerely, 
+   Dianne Feinstein
+  United States Senator 
+   * For SBA Katrina Report, visit http://feinstein.senate.gov/06releases/SBA%20Katrina%20Report.pdf
+ 
+ 

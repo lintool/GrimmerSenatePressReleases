@@ -1,0 +1,123 @@
+
+
+os.chdir('C:\CongressPress\Carper')
+
+html = ['http://carper.senate.gov/apress.cfm?type=date&month=10&year=2007',
+        'http://carper.senate.gov/apress.cfm?type=date&month=09&year=2007',
+        'http://carper.senate.gov/apress.cfm?type=date&month=08&year=2007',
+        'http://carper.senate.gov/apress.cfm?type=date&month=07&year=2007',
+        'http://carper.senate.gov/apress.cfm?type=date&month=06&year=2007',
+        'http://carper.senate.gov/apress.cfm?type=date&month=05&year=2007',
+        'http://carper.senate.gov/apress.cfm?type=date&month=04&year=2007',
+        'http://carper.senate.gov/apress.cfm?type=date&month=03&year=2007',
+        'http://carper.senate.gov/apress.cfm?type=date&month=02&year=2007',
+        'http://carper.senate.gov/apress.cfm?type=date&month=01&year=2007',
+        'http://carper.senate.gov/apress.cfm?type=date&month=12&year=2006',
+        'http://carper.senate.gov/apress.cfm?type=date&month=11&year=2006',
+        'http://carper.senate.gov/apress.cfm?type=date&month=10&year=2006',
+        'http://carper.senate.gov/apress.cfm?type=date&month=09&year=2006',
+        'http://carper.senate.gov/apress.cfm?type=date&month=08&year=2006',
+        'http://carper.senate.gov/apress.cfm?type=date&month=07&year=2006',
+        'http://carper.senate.gov/apress.cfm?type=date&month=06&year=2006',
+        'http://carper.senate.gov/apress.cfm?type=date&month=05&year=2006',
+        'http://carper.senate.gov/apress.cfm?type=date&month=04&year=2006',
+        'http://carper.senate.gov/apress.cfm?type=date&month=03&year=2006',
+        'http://carper.senate.gov/apress.cfm?type=date&month=02&year=2006',
+        'http://carper.senate.gov/apress.cfm?type=date&month=01&year=2006',
+        'http://carper.senate.gov/apress.cfm?type=date&month=12&year=2005',
+        'http://carper.senate.gov/apress.cfm?type=date&month=11&year=2005',
+        'http://carper.senate.gov/apress.cfm?type=date&month=10&year=2005',
+        'http://carper.senate.gov/apress.cfm?type=date&month=09&year=2005',
+        'http://carper.senate.gov/apress.cfm?type=date&month=08&year=2005',
+        'http://carper.senate.gov/apress.cfm?type=date&month=07&year=2005',
+        'http://carper.senate.gov/apress.cfm?type=date&month=06&year=2005',
+        'http://carper.senate.gov/apress.cfm?type=date&month=05&year=2005',
+        'http://carper.senate.gov/apress.cfm?type=date&month=04&year=2005',
+        'http://carper.senate.gov/apress.cfm?type=date&month=03&year=2005',
+        'http://carper.senate.gov/apress.cfm?type=date&month=02&year=2005',
+        'http://carper.senate.gov/apress.cfm?type=date&month=01&year=2005',
+        'http://carper.senate.gov/apress.cfm?type=date&month=12&year=2004',
+        'http://carper.senate.gov/apress.cfm?type=date&month=11&year=2004',
+        'http://carper.senate.gov/apress.cfm?type=date&month=10&year=2004',
+        'http://carper.senate.gov/apress.cfm?type=date&month=09&year=2004',
+        'http://carper.senate.gov/apress.cfm?type=date&month=08&year=2004',
+        'http://carper.senate.gov/apress.cfm?type=date&month=07&year=2004',
+        'http://carper.senate.gov/apress.cfm?type=date&month=06&year=2004',
+        'http://carper.senate.gov/apress.cfm?type=date&month=05&year=2004',
+        'http://carper.senate.gov/apress.cfm?type=date&month=04&year=2004',
+        'http://carper.senate.gov/apress.cfm?type=date&month=03&year=2004',
+        'http://carper.senate.gov/apress.cfm?type=date&month=02&year=2004',
+        'http://carper.senate.gov/apress.cfm?type=date&month=01&year=2004',
+        'http://carper.senate.gov/apress.cfm?type=date&month=12&year=2003',
+        'http://carper.senate.gov/apress.cfm?type=date&month=11&year=2003',
+        'http://carper.senate.gov/apress.cfm?type=date&month=10&year=2003',
+        'http://carper.senate.gov/apress.cfm?type=date&month=09&year=2003',
+        'http://carper.senate.gov/apress.cfm?type=date&month=08&year=2003',
+        'http://carper.senate.gov/apress.cfm?type=date&month=07&year=2003',
+        'http://carper.senate.gov/apress.cfm?type=date&month=06&year=2003',
+        'http://carper.senate.gov/apress.cfm?type=date&month=05&year=2003',
+        'http://carper.senate.gov/apress.cfm?type=date&month=04&year=2003',
+        'http://carper.senate.gov/apress.cfm?type=date&month=03&year=2003',
+        'http://carper.senate.gov/apress.cfm?type=date&month=02&year=2003',
+        'http://carper.senate.gov/apress.cfm?type=date&month=01&year=2003',
+        'http://carper.senate.gov/apress.cfm?type=date&month=12&year=2002',
+        'http://carper.senate.gov/apress.cfm?type=date&month=11&year=2002',
+        'http://carper.senate.gov/apress.cfm?type=date&month=10&year=2002',
+        'http://carper.senate.gov/apress.cfm?type=date&month=09&year=2002',
+        'http://carper.senate.gov/apress.cfm?type=date&month=08&year=2002',
+        'http://carper.senate.gov/apress.cfm?type=date&month=07&year=2002',
+        'http://carper.senate.gov/apress.cfm?type=date&month=06&year=2002',
+        'http://carper.senate.gov/apress.cfm?type=date&month=05&year=2002',
+        'http://carper.senate.gov/apress.cfm?type=date&month=04&year=2002',
+        'http://carper.senate.gov/apress.cfm?type=date&month=03&year=2002',
+        'http://carper.senate.gov/apress.cfm?type=date&month=02&year=2002',
+        'http://carper.senate.gov/apress.cfm?type=date&month=01&year=2002',
+        'http://carper.senate.gov/apress.cfm?type=date&month=12&year=2001',
+        'http://carper.senate.gov/apress.cfm?type=date&month=11&year=2001',
+        'http://carper.senate.gov/apress.cfm?type=date&month=10&year=2001',
+        'http://carper.senate.gov/apress.cfm?type=date&month=09&year=2001',
+        'http://carper.senate.gov/apress.cfm?type=date&month=08&year=2001',
+        'http://carper.senate.gov/apress.cfm?type=date&month=07&year=2001',
+        'http://carper.senate.gov/apress.cfm?type=date&month=06&year=2001',
+        'http://carper.senate.gov/apress.cfm?type=date&month=05&year=2001',
+        'http://carper.senate.gov/apress.cfm?type=date&month=04&year=2001',
+        'http://carper.senate.gov/apress.cfm?type=date&month=03&year=2001',
+        'http://carper.senate.gov/apress.cfm?type=date&month=02&year=2001',
+        'http://carper.senate.gov/apress.cfm?type=date&month=01&year=2001']
+
+
+for j in range(len(html)):
+    out = urlopen(html[j]).read()
+    soup = BeautifulSoup(out)
+    res  = soup.findAll('a')
+    fr= []
+    for k in range(len(res)):
+        if res[k].has_key('href'):
+            ab = res[k]['href']
+            ba = re.findall('id', str(ab))
+            if len(ba)>0 :
+                fr.append(ab.encode('UTF-8'))
+
+
+
+    store = ''
+    for num in range(len(fr)):
+        store += 'http://carper.senate.gov/' + fr[num] + '\n'
+    fr = store.split('\n')
+    fr.remove('')
+
+    for num in range(len(fr)):
+        test = urlopen(fr[num]).read()
+        soup2 = BeautifulSoup(test)
+        spans= soup2.findAll('td')
+        store = utilities.clean_html(str(spans[0]))
+        stores = re.sub('\W', ' ', store)
+        bs = soup2.findAll('b')
+        bsc = utilities.clean_html(str(bs))
+        bsc = bsc.split(',')
+        date = bsc[-2] + bsc[-1]
+        date = re.sub('\W', '', date)
+        names = 'Carper' + str(num) +  date + '.txt'
+        files = open(names, 'w')
+        files.write(stores)
+        files.close()
